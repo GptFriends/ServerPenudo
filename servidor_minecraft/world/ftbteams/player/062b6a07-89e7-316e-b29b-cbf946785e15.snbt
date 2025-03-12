@@ -1,0 +1,17 @@
+{
+	id: "062b6a07-89e7-316e-b29b-cbf946785e15"
+	type: "player"
+	player_name: "ChantySV"
+	ranks: {
+		062b6a07-89e7-316e-b29b-cbf946785e15: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ChantySV"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
