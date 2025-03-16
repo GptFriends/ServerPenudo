@@ -2379,3 +2379,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 06:05:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Chattering Teeth]
 [16Mar2025 06:05:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [En Garde!]
 [16Mar2025 06:05:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Ice Bucket Challenge]
+[16Mar2025 06:12:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported Dravensio to ChantySV]
+[16Mar2025 06:12:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dravensio a server operator
+[16Mar2025 06:14:07.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [Strong or Careful]
+[16Mar2025 06:14:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was impaled on a stalagmite whilst fighting Skeleton
+[16Mar2025 06:14:07.023] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 06:14:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [The Most Useful Key]
+[16Mar2025 06:14:21.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [A Fast Comeback]

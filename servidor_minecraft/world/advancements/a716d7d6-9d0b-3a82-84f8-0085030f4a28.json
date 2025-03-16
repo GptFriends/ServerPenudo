@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-16 03:25:33 +0000"
@@ -758,6 +764,7 @@
       "minecraft:spider": "2025-03-16 04:03:26 +0000",
       "minecraft:creeper": "2025-03-16 03:35:45 +0000",
       "minecraft:husk": "2025-03-16 05:28:46 +0000",
+      "minecraft:stray": "2025-03-16 06:08:41 +0000",
       "minecraft:zombie": "2025-03-16 03:35:11 +0000"
     },
     "done": false
@@ -777,6 +784,12 @@
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
     },
     "done": true
   },
@@ -954,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-03-16 03:23:45 +0000"
@@ -1035,6 +1054,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-03-16 03:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
     },
     "done": true
   },
@@ -1366,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-03-16 03:45:19 +0000"
@@ -1411,6 +1442,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
     },
     "done": true
   },
@@ -1540,6 +1577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-16 03:26:36 +0000"
@@ -1579,6 +1622,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
     },
     "done": true
   },
@@ -2121,6 +2170,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
     },
     "done": true
   },
@@ -3866,6 +3921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-16 06:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 03:23:02 +0000"
@@ -4219,6 +4280,7 @@
       "minecraft:jagged_peaks": "2025-03-16 03:33:38 +0000",
       "minecraft:forest": "2025-03-16 04:46:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 06:01:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-16 06:13:24 +0000",
       "minecraft:deep_dark": "2025-03-16 03:33:52 +0000",
       "minecraft:meadow": "2025-03-16 04:30:13 +0000",
       "minecraft:plains": "2025-03-16 04:30:28 +0000"

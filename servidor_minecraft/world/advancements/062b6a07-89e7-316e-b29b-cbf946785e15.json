@@ -55,6 +55,7 @@
       "minecraft:jagged_peaks": "2025-03-16 03:33:34 +0000",
       "minecraft:forest": "2025-03-16 04:46:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 06:01:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-16 06:13:21 +0000",
       "minecraft:deep_dark": "2025-03-16 03:33:46 +0000",
       "minecraft:plains": "2025-03-16 04:30:27 +0000"
     },
@@ -1163,6 +1164,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
+      "minecraft:spider": "2025-03-16 06:08:53 +0000",
       "minecraft:husk": "2025-03-16 05:29:11 +0000",
       "minecraft:zombie": "2025-03-16 03:13:07 +0000"
     },
@@ -2211,6 +2213,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
@@ -2244,6 +2252,12 @@
   "spartanweaponry:recipes/cestus": {
     "criteria": {
       "has_wool": "2025-03-16 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -2421,6 +2435,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-03-16 04:17:04 +0000"
@@ -2548,6 +2568,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-03-16 04:31:30 +0000"
@@ -2671,6 +2697,12 @@
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -2880,6 +2912,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
@@ -2901,6 +2939,12 @@
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -2973,6 +3017,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-16 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -3144,6 +3194,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-16 04:42:15 +0000"
@@ -3159,6 +3215,12 @@
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -3246,6 +3308,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
@@ -3300,9 +3368,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 06:14:21 +0000"
     },
     "done": true
   },
@@ -3414,6 +3494,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 06:14:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-03-16 04:30:17 +0000"
@@ -3468,6 +3554,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2025-03-16 04:03:11 +0000",
@@ -3510,6 +3602,12 @@
       "requirement1": "2025-03-16 04:43:11 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
@@ -3604,6 +3702,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -3703,6 +3807,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2025-03-16 05:34:09 +0000"
@@ -3739,6 +3849,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
@@ -3763,6 +3879,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
@@ -3772,6 +3894,12 @@
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -3835,6 +3963,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
@@ -3850,6 +3984,12 @@
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-03-16 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -3940,6 +4080,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -4093,6 +4239,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-16 04:13:01 +0000"
@@ -4114,6 +4266,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-03-16 05:55:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -4237,6 +4395,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-03-16 04:15:20 +0000"
@@ -4300,6 +4464,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-16 04:13:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -4513,9 +4683,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-16 06:09:26 +0000"
     },
     "done": true
   },
@@ -4624,6 +4806,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-16 04:42:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-16 06:14:10 +0000"
     },
     "done": true
   },
