@@ -1,0 +1,46 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 8869671138283297978
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 8869671138283297978
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 8869671138283297978
+		}
+	]
+}
