@@ -466,3 +466,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 17:19:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
 [16Mar2025 17:19:18.504] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
 [16Mar2025 17:19:20.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[16Mar2025 17:27:32.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
+[16Mar2025 17:27:32.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
