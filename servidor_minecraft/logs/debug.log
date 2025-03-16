@@ -5983,3 +5983,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 17:56:56.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Mar2025 18:01:08.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
 [16Mar2025 18:01:08.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
+[16Mar2025 18:01:56.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:01:56.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:06:56.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:06:56.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
