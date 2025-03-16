@@ -9570,3 +9570,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 03:24:11.152] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [16Mar2025 03:24:11.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [16Mar2025 03:24:11.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Mar2025 03:25:16.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:17.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:17.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:17.289] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 03:25:17.289] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:18.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:18.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 03:25:18.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 03:25:31.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:25:31.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:25:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Getting an Upgrade]
+[16Mar2025 03:26:36.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was blown up by Creeper
+[16Mar2025 03:26:36.836] [Server thread/DEBUG] [tombstone/]: A new grave of the player Dravensio was created at position [x:-20, y:74, z:-200, dim:minecraft:overworld]
+[16Mar2025 03:26:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Your First Grave]
+[16Mar2025 03:26:36.845] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 03:26:38.357] [Server thread/DEBUG] [twilightforest/]: Player Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28) respawned and received items held in storage
+[16Mar2025 03:26:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Acquire Hardware]
+[16Mar2025 03:27:06.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Here They Come]
+[16Mar2025 03:27:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ChantySV a server operator
+[16Mar2025 03:30:31.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:30:31.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:34:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Sneak 100]
+[16Mar2025 03:34:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Sneak 100]
