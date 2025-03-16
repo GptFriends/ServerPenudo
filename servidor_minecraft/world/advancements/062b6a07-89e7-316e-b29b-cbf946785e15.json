@@ -1165,10 +1165,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-16 06:34:44 +0000",
       "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
       "minecraft:spider": "2025-03-16 06:08:53 +0000",
       "minecraft:husk": "2025-03-16 05:29:11 +0000",
-      "minecraft:zombie": "2025-03-16 03:13:07 +0000"
+      "minecraft:zombie": "2025-03-16 03:13:07 +0000",
+      "minecraft:zombie_villager": "2025-03-16 06:27:11 +0000"
     },
     "done": false
   },
@@ -2251,9 +2253,21 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-03-16 06:33:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/cestus": {
     "criteria": {
       "has_wool": "2025-03-16 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2287,6 +2301,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-16 05:43:57 +0000"
@@ -2296,6 +2316,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 05:54:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2365,9 +2391,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/mangrove_cabinet": {
     "criteria": {
       "has_mangrove_trapdoor": "2025-03-16 05:43:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2434,6 +2484,12 @@
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2554,7 +2610,8 @@
   "1_splatus:spellbound/spellbound_all_weapons": {
     "criteria": {
       "dagger": "2025-03-16 04:03:11 +0000",
-      "mega_hammer": "2025-03-16 06:04:10 +0000"
+      "mega_hammer": "2025-03-16 06:04:10 +0000",
+      "chainfiring_crossbow": "2025-03-16 06:33:31 +0000"
     },
     "done": false
   },
@@ -2582,6 +2639,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2025-03-16 06:04:11 +0000"
@@ -2591,6 +2654,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-03-16 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-03-16 06:33:31 +0000"
     },
     "done": true
   },
@@ -2678,9 +2747,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-16 06:37:30 +0000"
     },
     "done": true
   },
@@ -2708,6 +2795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-16 05:54:49 +0000"
@@ -2726,6 +2819,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-16 04:15:16 +0000"
@@ -2741,6 +2840,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
     },
     "done": true
   },
@@ -2792,6 +2897,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-03-16 04:30:47 +0000"
@@ -2807,6 +2918,18 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-03-16 04:30:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2854,9 +2977,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 06:43:22 +0000"
     },
     "done": true
   },
@@ -2883,6 +3024,12 @@
       "requirement1": "2025-03-16 04:43:11 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
@@ -2932,6 +3079,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-03-16 05:49:06 +0000"
@@ -2962,9 +3115,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 06:43:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -2977,6 +3142,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-16 04:15:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3001,6 +3172,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
     },
     "done": true
   },
@@ -3070,6 +3247,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
@@ -3106,9 +3289,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-16 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3127,6 +3322,12 @@
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-03-16 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3157,6 +3358,12 @@
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3295,6 +3502,12 @@
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-03-16 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-16 06:28:36 +0000"
     },
     "done": true
   },
@@ -3442,6 +3655,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
@@ -3565,13 +3784,20 @@
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2025-03-16 04:03:11 +0000",
-      "mega_hammer": "2025-03-16 06:04:10 +0000"
+      "mega_hammer": "2025-03-16 06:04:10 +0000",
+      "chainfiring_crossbow": "2025-03-16 06:33:31 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3629,6 +3855,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-16 04:57:26 +0000"
@@ -3665,9 +3897,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-16 06:43:22 +0000"
     },
     "done": true
   },
@@ -3755,6 +3999,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
@@ -3782,6 +4032,12 @@
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-03-16 05:41:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -3857,6 +4113,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_flanged_mace": {
     "criteria": {
       "has_silver_ingot": "2025-03-16 06:09:26 +0000"
@@ -3896,6 +4158,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
     },
     "done": true
   },
@@ -3989,6 +4257,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-03-16 05:49:50 +0000"
@@ -4049,9 +4323,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-03-16 05:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
     },
     "done": true
   },
@@ -4079,6 +4365,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
@@ -4088,6 +4380,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4112,6 +4416,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-03-16 06:33:31 +0000"
     },
     "done": true
   },
@@ -4169,6 +4479,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
@@ -4184,6 +4500,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-03-16 05:27:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4223,9 +4545,21 @@
     },
     "done": true
   },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-03-16 06:33:31 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-03-16 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4274,6 +4608,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-03-16 05:55:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
     },
     "done": true
   },
@@ -4397,9 +4737,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-03-16 06:17:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4490,6 +4842,12 @@
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-03-16 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 06:34:44 +0000"
     },
     "done": true
   },
@@ -4607,6 +4965,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
@@ -4622,6 +4986,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 05:54:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4685,9 +5055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4817,9 +5199,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-03-16 06:33:05 +0000"
     },
     "done": true
   },
@@ -4859,6 +5253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-16 06:26:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 05:54:49 +0000"
@@ -4880,6 +5280,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-16 05:43:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
@@ -4922,6 +5328,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-16 06:43:25 +0000"
     },
     "done": true
   },
