@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:19:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 03:09:22 +0000"
@@ -74,6 +80,12 @@
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-03-16 03:09:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-16 03:17:15 +0000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-16 03:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-16 03:09:42 +0000"
@@ -143,9 +161,21 @@
     },
     "done": false
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-16 03:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-03-16 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-16 03:19:15 +0000"
     },
     "done": true
   },
@@ -172,6 +202,13 @@
       "in_water": "2025-03-16 03:09:56 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
+      "minecraft:zombie": "2025-03-16 03:13:07 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
@@ -353,6 +390,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 03:17:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_greatsword": {
     "criteria": {
       "has_wood": "2025-03-16 03:09:22 +0000"
@@ -380,6 +423,12 @@
   "spartanweaponry:recipes/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:10:14 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/blowgun": {
+    "criteria": {
+      "blowgun": "2025-03-16 03:19:54 +0000"
     },
     "done": true
   },
@@ -431,6 +480,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-16 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:19:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-03-16 03:09:22 +0000"
@@ -440,6 +501,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-16 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-03-16 03:12:24 +0000"
     },
     "done": true
   },
@@ -465,6 +532,12 @@
   "corail_dt:recipes/corail_dt/dust_0": {
     "criteria": {
       "requirement0": "2025-03-16 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 03:10:44 +0000"
     },
     "done": true
   },
@@ -534,6 +607,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 03:13:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-03-16 03:09:56 +0000"
@@ -599,6 +678,12 @@
       "has_stick": "2025-03-16 03:09:42 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-03-16 03:16:06 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
@@ -709,6 +794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-16 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-16 03:19:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-03-16 03:09:22 +0000"
@@ -736,6 +833,12 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_log": "2025-03-16 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-16 03:13:33 +0000"
     },
     "done": true
   },
@@ -799,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-16 03:10:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:10:14 +0000"
@@ -826,6 +935,18 @@
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-03-16 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 03:10:44 +0000"
     },
     "done": true
   },
@@ -883,6 +1004,18 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-16 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-16 03:19:54 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_1_0": {
     "criteria": {
       "requirement1": "2025-03-16 03:09:22 +0000"
@@ -904,6 +1037,12 @@
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
       "has_log": "2025-03-16 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-16 03:19:15 +0000"
     },
     "done": true
   },
@@ -955,6 +1094,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-16 03:13:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:10:14 +0000"
@@ -985,8 +1130,16 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-16 03:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-16 03:11:48 +0000",
+      "minecraft:snowy_plains": "2025-03-16 03:16:03 +0000",
       "minecraft:grove": "2025-03-16 03:06:35 +0000"
     },
     "done": false
@@ -1026,6 +1179,12 @@
       "has_stick": "2025-03-16 03:09:42 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-03-16 03:13:33 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
@@ -1075,6 +1234,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 03:10:44 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_2_1": {
     "criteria": {
       "requirement1": "2025-03-16 03:10:14 +0000"
@@ -1086,6 +1251,18 @@
       "requirement1": "2025-03-16 03:09:22 +0000"
     },
     "done": false
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-16 03:18:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {

@@ -2244,3 +2244,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 03:10:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Stone Age]
 [16Mar2025 03:10:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Getting an Upgrade]
 [16Mar2025 03:13:07.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Monster Hunter]
+[16Mar2025 03:17:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was shot by Stray
+[16Mar2025 03:17:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Your First Grave]
+[16Mar2025 03:17:14.371] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 03:19:43.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:34617] logged in with entity id 3552 at (2.5, 115.0, -9.5)
+[16Mar2025 03:19:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[16Mar2025 03:19:43.388] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[16Mar2025 03:19:43.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Ice and Fire]
+[16Mar2025 03:19:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Deconstruction]
+[16Mar2025 03:21:03.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Stone Age]
