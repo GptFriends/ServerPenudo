@@ -543,3 +543,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 22:39:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has completed the challenge [Praise the Sun]
 [16Mar2025 22:39:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
 [16Mar2025 22:43:13.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Birds of a Feather]
+[16Mar2025 22:48:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [The Imperial March]
+[16Mar2025 22:48:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [The Imperial March]
+[16Mar2025 22:49:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio withered away whilst fighting Wither Skeleton
+[16Mar2025 22:49:24.089] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:49:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:51:16.234] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player ChantySV just tried to change non-editable sign
+[16Mar2025 22:51:17.707] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player ChantySV just tried to change non-editable sign
+[16Mar2025 22:51:27.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Zombie
+[16Mar2025 22:51:27.389] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:51:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Zombie
+[16Mar2025 22:51:31.963] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:51:32.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:51:35.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:51:49.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Zombie
+[16Mar2025 22:51:49.643] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:51:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:53:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV withered away
+[16Mar2025 22:53:41.937] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:53:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
