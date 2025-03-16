@@ -495,3 +495,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 21:56:44.196] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
 [16Mar2025 21:57:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Who You Gonna Call?]
 [16Mar2025 22:03:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChantySV> tp acá
+[16Mar2025 22:08:49.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:10:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV drowned
+[16Mar2025 22:10:36.016] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:10:39.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
+[16Mar2025 22:10:39.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
+[16Mar2025 22:10:39.382] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Mar2025 22:10:55.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChantySV[/127.174.203.203:51105] logged in with entity id 15932 at (-2772.463978866445, 60.83405996099421, -1458.4341103753086)
+[16Mar2025 22:10:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
+[16Mar2025 22:10:55.491] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
+[16Mar2025 22:12:25.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV moved too quickly! 10.156516403942078,-0.7967356006687112,0.10593961146287256
+[16Mar2025 22:13:22.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was killed by Area Effect Cloud using magic
+[16Mar2025 22:13:22.389] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:13:38.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17040, l='ServerLevel[world]', x=-1602.70, y=68.00, z=-652.45] died, message: 'Farmer was slain by Zombie'

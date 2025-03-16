@@ -50,6 +50,7 @@
       "minecraft:cherry_grove": "2025-03-16 06:24:30 +0000",
       "minecraft:sunflower_plains": "2025-03-16 06:23:50 +0000",
       "minecraft:river": "2025-03-16 04:41:35 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-16 22:08:54 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:16:03 +0000",
       "minecraft:stony_shore": "2025-03-16 04:05:25 +0000",
       "minecraft:snowy_taiga": "2025-03-16 03:22:43 +0000",
@@ -5733,6 +5734,78 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-03-16 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:04:11 +0000"
     },
     "done": true
   },
