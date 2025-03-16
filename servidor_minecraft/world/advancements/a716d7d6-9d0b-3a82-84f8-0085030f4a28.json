@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-16 04:00:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:50:47 +0000"
     },
     "done": true
   },
@@ -313,6 +325,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-16 04:00:45 +0000",
+      "minecraft:spider": "2025-03-16 04:03:26 +0000",
       "minecraft:creeper": "2025-03-16 03:35:45 +0000",
       "minecraft:zombie": "2025-03-16 03:35:11 +0000"
     },
@@ -429,6 +443,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-03-16 03:55:38 +0000"
     },
     "done": true
   },
@@ -585,6 +605,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-16 03:30:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-03-16 03:45:19 +0000"
     },
     "done": true
   },
@@ -837,6 +863,12 @@
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:50:47 +0000"
     },
     "done": true
   },
@@ -1106,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-03-16 03:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
@@ -1335,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-16 03:44:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-03-16 03:22:46 +0000"
@@ -1434,6 +1478,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-16 03:46:06 +0000"
     },
     "done": true
   },
@@ -1707,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-16 03:50:47 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "has_the_recipe": "2025-03-16 03:25:33 +0000"
@@ -1935,6 +1991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-16 04:00:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-03-16 03:22:46 +0000"
@@ -2025,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-03-16 03:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-03-16 03:35:11 +0000"
@@ -2034,7 +2102,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-16 03:20:28 +0000",
+      "minecraft:frozen_river": "2025-03-16 04:07:03 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:22:35 +0000",
+      "minecraft:stony_shore": "2025-03-16 04:05:22 +0000",
+      "minecraft:dripstone_caves": "2025-03-16 03:52:41 +0000",
       "minecraft:snowy_taiga": "2025-03-16 03:22:41 +0000",
       "minecraft:grove": "2025-03-16 03:19:44 +0000",
       "minecraft:jagged_peaks": "2025-03-16 03:33:38 +0000",

@@ -2286,3 +2286,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 03:40:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
 [16Mar2025 03:40:44.745] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
 [16Mar2025 03:42:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 03:47:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Isn't It Iron Pick]
+[16Mar2025 03:59:34.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was shot by Skeleton
+[16Mar2025 03:59:34.397] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 03:59:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Not Today, Thank You]
+[16Mar2025 04:00:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported Dravensio to ChantySV]
+[16Mar2025 04:00:34.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Not Today, Thank You]
+[16Mar2025 04:04:41.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was shot by Skeleton
+[16Mar2025 04:04:41.592] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 04:04:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 04:08:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was turned to ice by Ice Dragon
+[16Mar2025 04:08:05.902] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 04:08:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was turned to ice by Ice Dragon
+[16Mar2025 04:08:14.798] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
