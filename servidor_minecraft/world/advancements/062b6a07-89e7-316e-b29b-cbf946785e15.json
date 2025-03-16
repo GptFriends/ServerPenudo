@@ -1162,6 +1162,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
+      "minecraft:husk": "2025-03-16 05:29:11 +0000",
       "minecraft:zombie": "2025-03-16 03:13:07 +0000"
     },
     "done": false
@@ -2418,9 +2419,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-16 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-16 04:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
     },
     "done": true
   },
@@ -2574,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_2_4": {
     "criteria": {
       "requirement1": "2025-03-16 04:43:11 +0000"
@@ -2595,6 +2614,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-16 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
     },
     "done": true
   },
@@ -2811,6 +2836,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
     },
     "done": true
   },
@@ -3138,6 +3169,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-16 05:34:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
@@ -3177,6 +3214,12 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-16 05:34:09 +0000"
     },
     "done": true
   },
@@ -3237,6 +3280,12 @@
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-16 05:27:31 +0000"
     },
     "done": true
   },
@@ -3396,11 +3445,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-16 05:27:31 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_4_4": {
     "criteria": {
       "requirement1": "2025-03-16 04:43:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-16 05:27:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-16 05:34:09 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
@@ -3429,6 +3496,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-16 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-03-16 05:27:12 +0000"
     },
     "done": true
   },
@@ -3516,6 +3589,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:25:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-03-16 04:15:20 +0000"
@@ -3531,6 +3610,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-16 05:34:09 +0000"
     },
     "done": true
   },
@@ -3573,6 +3658,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-16 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
     },
     "done": true
   },
@@ -3792,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-16 05:25:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-16 04:42:15 +0000"
@@ -3803,6 +3900,12 @@
       "requirement1": "2025-03-16 04:43:11 +0000"
     },
     "done": false
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:25:33 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {

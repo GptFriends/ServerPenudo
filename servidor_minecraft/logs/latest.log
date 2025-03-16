@@ -2353,3 +2353,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 05:11:32.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Ashes 'n Bones]
 [16Mar2025 05:19:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Suit Up]
 [16Mar2025 05:20:08.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Isn't It Iron Pick]
+[16Mar2025 05:28:06.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Knowledge of Death]
+[16Mar2025 05:28:06.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Ashes 'n Bones]
+[16Mar2025 05:28:16.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [A Strange Grave Dust]
+[16Mar2025 05:30:56.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Skeleton
+[16Mar2025 05:30:56.442] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 05:31:22.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported Dravensio to ChantySV]
+[16Mar2025 05:31:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Chain Death]
+[16Mar2025 05:31:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Skeleton
+[16Mar2025 05:31:57.843] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 05:32:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported Dravensio to ChantySV]
+[16Mar2025 05:32:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made dravencio a server operator
+[16Mar2025 05:32:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Knowledge raises the soul]
+[16Mar2025 05:34:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Cover Me with Diamonds]
