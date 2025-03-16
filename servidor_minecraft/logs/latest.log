@@ -2370,3 +2370,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 05:38:58.891] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
 [16Mar2025 05:42:46.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [Bone Crusher]
 [16Mar2025 05:53:28.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Knowledge raises the soul]
+[16Mar2025 05:59:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [The Parrots and the Bats]
+[16Mar2025 06:04:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Diamonds!]
+[16Mar2025 06:04:09.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Hammer Time!]
+[16Mar2025 06:04:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Reaping What You Sow]
+[16Mar2025 06:04:53.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12852ms or 257 ticks behind
+[16Mar2025 06:05:07.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Will it Come Back?]
+[16Mar2025 06:05:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Chattering Teeth]
+[16Mar2025 06:05:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [En Garde!]
+[16Mar2025 06:05:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Ice Bucket Challenge]
