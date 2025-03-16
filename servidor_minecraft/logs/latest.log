@@ -509,3 +509,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 22:13:22.389] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 22:13:38.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17040, l='ServerLevel[world]', x=-1602.70, y=68.00, z=-652.45] died, message: 'Farmer was slain by Zombie'
 [16Mar2025 22:20:37.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:25:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[16Mar2025 22:25:18.641] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:25:25.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:26:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Strong or Careful]
+[16Mar2025 22:26:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was doomed to fall
+[16Mar2025 22:26:07.693] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:26:12.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:26:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was doomed to fall
+[16Mar2025 22:26:14.262] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:26:22.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio was kicked for floating too long!
+[16Mar2025 22:26:22.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Flying is not enabled on this server
+[16Mar2025 22:26:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
+[16Mar2025 22:30:17.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:43683] logged in with entity id 21769 at (-2667.991858633474, 72.20804027917794, -1489.615317079911)
+[16Mar2025 22:30:17.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[16Mar2025 22:30:17.920] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[16Mar2025 22:30:21.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:31:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[16Mar2025 22:31:47.988] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:31:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:32:13.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was doomed to fall
+[16Mar2025 22:32:13.263] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:32:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:37:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[16Mar2025 22:37:29.289] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:37:35.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:38:12.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Birds of a Feather]
+[16Mar2025 22:38:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Umvuthi, the Sunbird
+[16Mar2025 22:38:33.639] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:38:39.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:39:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[16Mar2025 22:39:07.388] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:39:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has completed the challenge [Praise the Sun]
+[16Mar2025 22:39:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:43:13.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Birds of a Feather]

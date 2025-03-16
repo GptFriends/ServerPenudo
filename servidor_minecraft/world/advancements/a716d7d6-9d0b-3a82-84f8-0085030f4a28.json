@@ -48,6 +48,7 @@
       "minecraft:frozen_river": "2025-03-16 04:07:03 +0000",
       "minecraft:cherry_grove": "2025-03-16 06:24:42 +0000",
       "minecraft:sunflower_plains": "2025-03-16 06:24:36 +0000",
+      "minecraft:savanna_plateau": "2025-03-16 22:21:45 +0000",
       "minecraft:river": "2025-03-16 04:44:23 +0000",
       "minecraft:lukewarm_ocean": "2025-03-16 22:09:04 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:22:35 +0000",
@@ -2461,6 +2462,7 @@
       "cooked_beef": "2025-03-16 05:27:38 +0000",
       "pumpkin_pie": "2025-03-16 06:28:22 +0000",
       "bread": "2025-03-16 04:31:44 +0000",
+      "golden_apple": "2025-03-16 22:25:48 +0000",
       "cooked_rabbit": "2025-03-16 05:47:43 +0000",
       "cooked_chicken": "2025-03-16 05:28:24 +0000"
     },
@@ -5451,6 +5453,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-03-16 21:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-03-16 21:44:01 +0000"
@@ -5463,15 +5471,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-16 21:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-16 21:44:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-03-16 21:44:02 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/brown_sofa": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_wool": "2025-03-16 21:44:01 +0000"
+      "fried_egg": "2025-03-16 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-16 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-03-16 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-16 21:44:02 +0000"
     },
     "done": true
   },
@@ -5493,24 +5531,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-03-16 21:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-03-16 21:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-03-16 21:44:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-16 21:44:07 +0000"
@@ -5529,18 +5549,6 @@
     },
     "done": true
   },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2025-03-16 21:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-03-16 21:52:09 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-03-16 21:44:07 +0000"
@@ -5550,12 +5558,6 @@
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-03-16 21:44:07 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-03-16 21:18:08 +0000"
     },
     "done": true
   },
@@ -5571,9 +5573,117 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "fried_egg": "2025-03-16 21:44:02 +0000"
+      "has_azure_bluet": "2025-03-16 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 22:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_blinds": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-16 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-03-16 22:38:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-16 22:39:09 +0000"
     },
     "done": true
   },
