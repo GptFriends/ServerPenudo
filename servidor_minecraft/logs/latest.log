@@ -591,3 +591,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 23:03:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV withered away
 [16Mar2025 23:03:44.988] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 23:03:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 23:07:29.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:07:29.840] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:08:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Spooky Scary Skeleton]
+[16Mar2025 23:09:13.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Back to childhood]
+[16Mar2025 23:09:13.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Not even afraid of death]
+[16Mar2025 23:09:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio withered away whilst fighting Phantom
+[16Mar2025 23:09:47.990] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 23:09:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 23:10:15.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:10:15.193] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:10:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 23:10:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:10:34.289] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:11:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:11:13.492] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:11:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 23:11:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Ol' Betsy]
+[16Mar2025 23:11:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Take Aim]
+[16Mar2025 23:11:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:11:53.340] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:12:27.196] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Dravensio just tried to change non-editable sign
+[16Mar2025 23:13:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [A second youth]

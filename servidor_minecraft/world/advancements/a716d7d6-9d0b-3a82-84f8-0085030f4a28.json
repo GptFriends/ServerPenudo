@@ -1495,6 +1495,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-16 06:33:11 +0000",
       "minecraft:skeleton": "2025-03-16 04:00:45 +0000",
+      "minecraft:hoglin": "2025-03-16 23:05:21 +0000",
       "minecraft:spider": "2025-03-16 04:03:26 +0000",
       "minecraft:creeper": "2025-03-16 03:35:45 +0000",
       "minecraft:slime": "2025-03-16 22:55:15 +0000",
@@ -5691,6 +5692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-16 23:10:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
@@ -5799,6 +5806,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-16 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-03-16 23:08:44 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-03-16 22:51:52 +0000"
@@ -5814,6 +5833,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-16 23:10:00 +0000"
     },
     "done": true
   },
@@ -5877,6 +5902,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-16 23:08:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
@@ -5898,6 +5929,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-16 23:08:44 +0000"
     },
     "done": true
   },

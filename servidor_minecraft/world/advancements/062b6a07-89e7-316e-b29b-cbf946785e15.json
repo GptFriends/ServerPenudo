@@ -1177,6 +1177,7 @@
       "minecraft:vindicator": "2025-03-16 06:46:37 +0000",
       "minecraft:spider": "2025-03-16 06:08:53 +0000",
       "minecraft:creeper": "2025-03-16 22:55:13 +0000",
+      "minecraft:slime": "2025-03-16 23:06:53 +0000",
       "minecraft:phantom": "2025-03-16 22:53:38 +0000",
       "minecraft:witch": "2025-03-16 06:51:46 +0000",
       "minecraft:wither_skeleton": "2025-03-16 22:50:04 +0000",
@@ -5875,6 +5876,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-16 23:11:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
@@ -5926,6 +5933,12 @@
   "cfm:recipes/decorations/acacia_park_bench": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-16 23:11:37 +0000"
     },
     "done": true
   },
@@ -6001,6 +6014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-16 23:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-16 23:02:53 +0000"
@@ -6019,6 +6038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-16 23:05:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
@@ -6034,6 +6059,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-03-16 22:17:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-16 23:06:32 +0000"
     },
     "done": true
   },
@@ -6103,6 +6134,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-16 23:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-03-16 22:49:10 +0000"
@@ -6115,9 +6158,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-03-16 23:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-16 23:06:55 +0000"
     },
     "done": true
   },
@@ -6169,6 +6224,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-16 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 23:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-16 23:02:54 +0000"
@@ -6205,6 +6272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-16 23:05:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
@@ -6214,6 +6287,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-16 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-16 23:09:13 +0000"
     },
     "done": true
   },
