@@ -2369,3 +2369,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 05:38:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Husk
 [16Mar2025 05:38:58.891] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
 [16Mar2025 05:42:46.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [Bone Crusher]
+[16Mar2025 05:53:28.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Knowledge raises the soul]
