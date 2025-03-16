@@ -1,4 +1,10 @@
 {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 05:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-16 03:23:06 +0000"
@@ -8,6 +14,12 @@
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-16 05:04:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 03:22:46 +0000"
@@ -86,6 +104,12 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -221,6 +245,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 03:31:16 +0000"
@@ -230,6 +260,12 @@
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -248,6 +284,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-03-16 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -274,6 +316,24 @@
       "requirement1": "2025-03-16 03:21:03 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-16 05:03:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
@@ -371,6 +431,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 04:00:45 +0000",
@@ -410,6 +476,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-16 04:31:06 +0000"
@@ -440,6 +512,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
@@ -449,6 +527,12 @@
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-03-16 04:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 05:04:23 +0000"
     },
     "done": true
   },
@@ -473,6 +557,12 @@
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -506,6 +596,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-03-16 03:55:38 +0000"
@@ -515,6 +611,13 @@
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
       "requirement1": "2025-03-16 03:23:02 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "rice": "2025-03-16 05:05:30 +0000",
+      "wheat": "2025-03-16 04:58:19 +0000"
     },
     "done": false
   },
@@ -557,6 +660,12 @@
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -632,6 +741,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-16 03:30:54 +0000"
@@ -641,6 +762,12 @@
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -746,6 +873,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 03:31:16 +0000"
@@ -761,6 +894,12 @@
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -788,6 +927,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_greatsword": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
@@ -812,6 +957,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
@@ -827,6 +984,12 @@
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -854,6 +1017,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
@@ -869,6 +1038,12 @@
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -926,6 +1101,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-03-16 03:22:46 +0000"
@@ -944,9 +1125,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-03-16 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -980,9 +1173,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1034,6 +1245,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/dust_0": {
     "criteria": {
       "has_the_recipe": "2025-03-16 03:23:06 +0000",
@@ -1077,6 +1294,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:21:03 +0000"
@@ -1107,9 +1330,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-03-16 04:58:10 +0000"
     },
     "done": true
   },
@@ -1156,6 +1397,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {
       "requirement1": "2025-03-16 03:21:03 +0000"
@@ -1177,6 +1424,12 @@
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1258,6 +1511,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:21:03 +0000"
@@ -1270,9 +1529,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-03-16 03:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-16 05:04:23 +0000"
     },
     "done": true
   },
@@ -1285,6 +1556,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1339,6 +1616,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-16 03:23:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-03-16 05:05:30 +0000"
     },
     "done": true
   },
@@ -1426,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-16 05:04:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
@@ -1459,6 +1748,18 @@
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1529,9 +1830,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-03-16 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1562,6 +1875,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-03-16 03:22:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1703,6 +2022,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-16 04:15:40 +0000"
@@ -1751,6 +2076,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-16 05:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-16 03:40:13 +0000"
@@ -1787,9 +2118,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 05:03:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-03-16 03:33:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1811,9 +2160,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-03-16 03:23:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -1979,6 +2346,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
@@ -2051,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-16 05:04:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
@@ -2072,6 +2451,12 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2105,6 +2490,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-03-16 03:40:13 +0000"
@@ -2126,6 +2517,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-03-16 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2156,6 +2553,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-16 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2225,9 +2628,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-16 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-16 05:03:44 +0000"
     },
     "done": true
   },
@@ -2352,9 +2779,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-16 04:58:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-03-16 03:23:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2379,6 +2818,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2417,6 +2862,24 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2480,9 +2943,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-16 03:30:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },
@@ -2549,6 +3024,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:55:35 +0000"
     },
     "done": true
   },

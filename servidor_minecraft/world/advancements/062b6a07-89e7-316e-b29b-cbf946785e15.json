@@ -2220,6 +2220,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-16 04:15:20 +0000"
@@ -2241,6 +2247,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-16 03:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-03-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -2436,6 +2448,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-03-16 04:30:17 +0000"
@@ -2526,6 +2550,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-16 05:01:13 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_0_4": {
     "criteria": {
       "requirement1": "2025-03-16 04:43:11 +0000"
@@ -2556,6 +2586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-16 04:49:35 +0000"
@@ -2571,6 +2607,12 @@
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -2712,9 +2754,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -2811,6 +2871,18 @@
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -2928,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-16 03:47:47 +0000"
@@ -2939,6 +3017,12 @@
       "dagger": "2025-03-16 04:03:11 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/door_mat": {
     "criteria": {
@@ -2958,9 +3042,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -2973,6 +3069,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-16 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3036,6 +3138,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-16 04:30:39 +0000"
@@ -3057,6 +3165,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-16 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3102,6 +3216,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-03-16 04:30:17 +0000"
@@ -3111,6 +3231,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-16 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3186,9 +3312,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-16 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3225,6 +3369,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-03-16 04:31:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -3270,6 +3420,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-16 04:13:01 +0000"
@@ -3297,6 +3453,12 @@
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3360,6 +3522,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_arrow": {
     "criteria": {
       "has_feather": "2025-03-16 04:15:20 +0000"
@@ -3399,6 +3567,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-16 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
     },
     "done": true
   },
@@ -3510,6 +3684,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
@@ -3522,6 +3702,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-16 04:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-03-16 03:44:54 +0000"
@@ -3531,6 +3717,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-03-16 04:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-16 05:01:13 +0000"
     },
     "done": true
   },
@@ -3561,6 +3753,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-16 04:57:12 +0000"
     },
     "done": true
   },
