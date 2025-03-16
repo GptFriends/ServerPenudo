@@ -562,3 +562,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 22:53:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV withered away
 [16Mar2025 22:53:41.937] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 22:53:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:55:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 22:55:33.138] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:55:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:57:01.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 22:57:01.097] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:57:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:57:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Wither Skeleton
+[16Mar2025 22:57:55.190] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:57:55.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 22:57:55.999] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:58:16.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Wither Skeleton
+[16Mar2025 22:58:16.203] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:58:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:58:48.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 22:58:49.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 22:58:49.944] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 22:58:56.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio withered away whilst fighting Wither Skeleton
+[16Mar2025 22:58:56.537] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 22:58:58.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 22:59:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Reaping What You Sow]
+[16Mar2025 23:00:02.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to Dravensio]
+[16Mar2025 23:00:21.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 23:00:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[16Mar2025 23:00:29.693] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:00:35.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 23:02:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Spooky Scary Skeleton]
+[16Mar2025 23:03:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV withered away
+[16Mar2025 23:03:44.988] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 23:03:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]

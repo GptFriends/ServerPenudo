@@ -1173,8 +1173,11 @@
     "criteria": {
       "minecraft:pillager": "2025-03-16 06:34:44 +0000",
       "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
+      "minecraft:hoglin": "2025-03-16 23:02:51 +0000",
       "minecraft:vindicator": "2025-03-16 06:46:37 +0000",
       "minecraft:spider": "2025-03-16 06:08:53 +0000",
+      "minecraft:creeper": "2025-03-16 22:55:13 +0000",
+      "minecraft:phantom": "2025-03-16 22:53:38 +0000",
       "minecraft:witch": "2025-03-16 06:51:46 +0000",
       "minecraft:wither_skeleton": "2025-03-16 22:50:04 +0000",
       "minecraft:husk": "2025-03-16 05:29:11 +0000",
@@ -1227,6 +1230,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2025-03-16 23:02:54 +0000",
       "skeleton_skull": "2025-03-16 03:16:06 +0000"
     },
     "done": false
@@ -5817,6 +5821,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2025-03-16 22:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
@@ -5844,6 +5854,18 @@
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-03-16 22:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-16 22:54:54 +0000"
     },
     "done": true
   },
@@ -5913,9 +5935,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-16 23:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 23:02:53 +0000"
     },
     "done": true
   },
@@ -5943,6 +5977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 23:02:53 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-03-16 22:48:39 +0000"
@@ -5958,6 +5998,12 @@
   "cfm:recipes/decorations/acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 23:02:53 +0000"
     },
     "done": true
   },
@@ -6009,9 +6055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-16 22:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 23:02:53 +0000"
     },
     "done": true
   },
@@ -6030,6 +6088,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-03-16 22:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 23:02:53 +0000"
     },
     "done": true
   },
@@ -6099,6 +6169,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-16 23:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
@@ -6132,6 +6208,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-16 23:02:54 +0000"
     },
     "done": true
   },

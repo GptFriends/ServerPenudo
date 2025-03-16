@@ -1497,7 +1497,10 @@
       "minecraft:skeleton": "2025-03-16 04:00:45 +0000",
       "minecraft:spider": "2025-03-16 04:03:26 +0000",
       "minecraft:creeper": "2025-03-16 03:35:45 +0000",
+      "minecraft:slime": "2025-03-16 22:55:15 +0000",
+      "minecraft:phantom": "2025-03-16 23:05:00 +0000",
       "minecraft:witch": "2025-03-16 06:47:10 +0000",
+      "minecraft:wither_skeleton": "2025-03-16 22:51:13 +0000",
       "minecraft:husk": "2025-03-16 05:28:46 +0000",
       "minecraft:enderman": "2025-03-16 06:31:59 +0000",
       "minecraft:stray": "2025-03-16 06:08:41 +0000",
@@ -2464,7 +2467,8 @@
       "bread": "2025-03-16 04:31:44 +0000",
       "golden_apple": "2025-03-16 22:25:48 +0000",
       "cooked_rabbit": "2025-03-16 05:47:43 +0000",
-      "cooked_chicken": "2025-03-16 05:28:24 +0000"
+      "cooked_chicken": "2025-03-16 05:28:24 +0000",
+      "carrot": "2025-03-16 23:01:35 +0000"
     },
     "done": false
   },
@@ -5705,6 +5709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-16 22:52:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-03-16 22:47:23 +0000"
@@ -5789,6 +5799,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-16 22:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-03-16 22:49:05 +0000"
@@ -5798,6 +5814,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_fortress_core": {
+    "criteria": {
+      "blowgun": "2025-03-16 22:52:42 +0000"
     },
     "done": true
   },
@@ -5846,6 +5868,12 @@
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-16 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-16 22:52:42 +0000"
     },
     "done": true
   },
