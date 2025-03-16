@@ -392,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-16 04:31:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
@@ -812,6 +818,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-16 04:31:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-03-16 03:23:02 +0000"
@@ -917,6 +929,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-16 03:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-16 04:31:06 +0000"
     },
     "done": true
   },
@@ -1147,6 +1165,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-16 04:31:06 +0000"
     },
     "done": true
   },
@@ -2224,7 +2248,9 @@
       "minecraft:snowy_taiga": "2025-03-16 03:22:41 +0000",
       "minecraft:grove": "2025-03-16 03:19:44 +0000",
       "minecraft:jagged_peaks": "2025-03-16 03:33:38 +0000",
-      "minecraft:deep_dark": "2025-03-16 03:33:52 +0000"
+      "minecraft:deep_dark": "2025-03-16 03:33:52 +0000",
+      "minecraft:meadow": "2025-03-16 04:30:13 +0000",
+      "minecraft:plains": "2025-03-16 04:30:28 +0000"
     },
     "done": false
   },
@@ -2290,7 +2316,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-03-16 04:15:40 +0000"
+      "cooked_mutton": "2025-03-16 04:15:40 +0000",
+      "bread": "2025-03-16 04:31:44 +0000"
     },
     "done": false
   },

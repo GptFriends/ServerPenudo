@@ -2301,3 +2301,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 04:08:14.798] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 04:16:55.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Sweet Dreams]
 [16Mar2025 04:22:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 04:25:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio suffocated in a wall
+[16Mar2025 04:25:56.493] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 04:26:07.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported Dravensio to ChantySV]
