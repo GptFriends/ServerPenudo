@@ -472,3 +472,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 21:18:08.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [The Lighthouse]
 [16Mar2025 21:20:10.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
 [16Mar2025 21:20:10.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
+[16Mar2025 21:54:07.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChantySV[/127.174.203.203:48341] logged in with entity id 7720 at (-2222.411217025042, 110.0, -1665.0455388487778)
+[16Mar2025 21:54:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
+[16Mar2025 21:54:07.707] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
+[16Mar2025 21:56:38.969] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[16Mar2025 21:56:38.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[16Mar2025 21:56:38.989] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[16Mar2025 21:56:38.990] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[16Mar2025 21:56:39.072] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[16Mar2025 21:56:39.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[16Mar2025 21:56:43.663] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[16Mar2025 21:56:43.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[16Mar2025 21:56:43.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[16Mar2025 21:56:44.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[16Mar2025 21:56:44.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[16Mar2025 21:56:44.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[16Mar2025 21:56:44.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[16Mar2025 21:56:44.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[16Mar2025 21:56:44.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[16Mar2025 21:56:44.194] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[16Mar2025 21:56:44.196] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[16Mar2025 21:56:44.196] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[16Mar2025 21:57:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Who You Gonna Call?]
+[16Mar2025 22:03:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChantySV> tp acá
