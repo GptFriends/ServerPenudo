@@ -14566,3 +14566,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 04:30:59.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [16Mar2025 04:35:31.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Mar2025 04:35:31.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 04:35:39.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV burned to death
+[16Mar2025 04:35:39.241] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChantySV was created at position [x:-1311, y:91, z:-438, dim:minecraft:overworld]
+[16Mar2025 04:35:39.242] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 04:35:40.678] [Server thread/DEBUG] [twilightforest/]: Player ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15) respawned and received items held in storage
+[16Mar2025 04:35:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 04:36:37.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:36:42.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:36:42.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 04:36:48.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:36:48.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 04:37:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Sweet Dreams]
+[16Mar2025 04:37:20.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:37:20.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 04:37:21.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:38:11.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:38:11.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 04:38:34.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV burned to death
+[16Mar2025 04:38:34.692] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChantySV was created at position [x:-1369, y:93, z:-431, dim:minecraft:overworld]
+[16Mar2025 04:38:34.693] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 04:38:36.347] [Server thread/DEBUG] [twilightforest/]: Player ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15) respawned and received items held in storage
+[16Mar2025 04:38:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 04:38:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio burned to death
+[16Mar2025 04:38:55.488] [Server thread/DEBUG] [tombstone/]: A new grave of the player Dravensio was created at position [x:-1342, y:102, z:-508, dim:minecraft:overworld]
+[16Mar2025 04:38:55.490] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 04:38:57.370] [Server thread/DEBUG] [twilightforest/]: Player Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28) respawned and received items held in storage
+[16Mar2025 04:40:00.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:40:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio walked into fire whilst fighting Fire Dragon
+[16Mar2025 04:40:00.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player Dravensio was created at position [x:-1328, y:112, z:-504, dim:minecraft:overworld]
+[16Mar2025 04:40:00.844] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 04:40:02.544] [Server thread/DEBUG] [twilightforest/]: Player Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28) respawned and received items held in storage
+[16Mar2025 04:40:31.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 04:40:31.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 04:40:59.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28788, l='ServerLevel[world]', x=-1305.75, y=116.00, z=-467.46] died, message: 'Unemployed walked into fire whilst fighting Fire Dragon'
+[16Mar2025 04:40:59.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29074, l='ServerLevel[world]', x=-1303.53, y=116.00, z=-468.48] died, message: 'Unemployed walked into fire whilst fighting Fire Dragon'
+[16Mar2025 04:41:20.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[16Mar2025 04:41:20.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[16Mar2025 04:41:20.641] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[16Mar2025 04:41:20.641] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[16Mar2025 04:41:20.641] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[16Mar2025 04:41:21.050] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[16Mar2025 04:41:21.051] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[16Mar2025 04:41:21.051] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[16Mar2025 04:41:21.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[16Mar2025 04:41:21.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[16Mar2025 04:41:21.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[16Mar2025 04:41:21.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[16Mar2025 04:41:23.675] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[16Mar2025 04:41:23.675] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[16Mar2025 04:41:23.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[16Mar2025 04:41:23.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[16Mar2025 04:41:23.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[16Mar2025 04:41:23.750] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[16Mar2025 04:41:23.750] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[16Mar2025 04:41:23.750] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[16Mar2025 04:41:23.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[16Mar2025 04:41:23.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[16Mar2025 04:41:23.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[16Mar2025 04:42:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Ice Bucket Challenge]
+[16Mar2025 04:43:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio burned to death
+[16Mar2025 04:43:19.003] [Server thread/DEBUG] [tombstone/]: A new grave of the player Dravensio was created at position [x:-1376, y:87, z:-558, dim:minecraft:overworld]
+[16Mar2025 04:43:19.004] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 04:43:20.624] [Server thread/DEBUG] [twilightforest/]: Player Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28) respawned and received items held in storage
+[16Mar2025 04:45:31.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 04:45:31.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 04:46:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Crops of the Wild]
+[16Mar2025 04:47:53.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Suit Up]
+[16Mar2025 04:49:35.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [The Parrots and the Bats]
+[16Mar2025 04:50:31.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 04:50:31.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 04:53:33.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:53:33.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Mar2025 04:53:36.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:53:39.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Mar2025 04:55:31.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 04:55:31.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
