@@ -3468,6 +3468,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-16 05:21:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
@@ -3581,6 +3587,12 @@
       "requirement1": "2025-03-16 04:43:11 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-16 05:24:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
@@ -3792,6 +3804,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 05:11:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 04:43:11 +0000"
@@ -3801,6 +3819,12 @@
   "cfm:recipes/decorations/brown_cooler": {
     "criteria": {
       "has_chest": "2025-03-16 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-16 05:21:23 +0000"
     },
     "done": true
   },
