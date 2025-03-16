@@ -2420,3 +2420,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 06:39:45.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1913, y=121, z=-1735} BlockPos{x=-1914, y=120, z=-1734}
 [16Mar2025 06:40:03.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1913, y=127, z=-1726} BlockPos{x=-1914, y=126, z=-1726}
 [16Mar2025 06:46:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [Fortuitous Militia]
+[16Mar2025 06:48:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was killed by Witch using magic
+[16Mar2025 06:48:42.441] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 06:48:53.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 06:51:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was slain by Zombie Villager
+[16Mar2025 06:51:07.598] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 06:51:18.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[16Mar2025 06:51:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was killed by Witch using magic
+[16Mar2025 06:51:25.239] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 06:51:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[16Mar2025 06:51:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Fortuitous Militia]

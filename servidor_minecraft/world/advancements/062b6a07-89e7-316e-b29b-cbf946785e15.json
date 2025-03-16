@@ -1167,7 +1167,9 @@
     "criteria": {
       "minecraft:pillager": "2025-03-16 06:34:44 +0000",
       "minecraft:skeleton": "2025-03-16 03:19:50 +0000",
+      "minecraft:vindicator": "2025-03-16 06:46:37 +0000",
       "minecraft:spider": "2025-03-16 06:08:53 +0000",
+      "minecraft:witch": "2025-03-16 06:51:46 +0000",
       "minecraft:husk": "2025-03-16 05:29:11 +0000",
       "minecraft:zombie": "2025-03-16 03:13:07 +0000",
       "minecraft:zombie_villager": "2025-03-16 06:27:11 +0000"
@@ -2379,6 +2381,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-03-16 06:55:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/huge_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
@@ -2879,6 +2887,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 06:46:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-03-16 05:49:50 +0000"
@@ -3034,6 +3048,12 @@
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-16 06:55:16 +0000"
     },
     "done": true
   },
@@ -3514,6 +3534,12 @@
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-03-16 04:47:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-16 06:47:50 +0000"
     },
     "done": true
   },
@@ -4284,6 +4310,12 @@
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-16 06:55:16 +0000"
     },
     "done": true
   },
