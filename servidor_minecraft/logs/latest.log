@@ -2299,3 +2299,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 04:08:05.902] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
 [16Mar2025 04:08:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was turned to ice by Ice Dragon
 [16Mar2025 04:08:14.798] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[16Mar2025 04:16:55.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Sweet Dreams]
+[16Mar2025 04:22:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
