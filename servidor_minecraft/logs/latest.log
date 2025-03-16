@@ -2430,3 +2430,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 06:51:25.239] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 06:51:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
 [16Mar2025 06:51:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Fortuitous Militia]
+[16Mar2025 07:04:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Hot Stuff]
+[16Mar2025 07:18:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was doomed to fall by Warden
+[16Mar2025 07:18:59.295] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[16Mar2025 07:19:00.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [The Most Useful Key]
+[16Mar2025 07:19:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [A Fast Comeback]
+[16Mar2025 07:22:23.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Diamonds!]
+[16Mar2025 07:26:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
