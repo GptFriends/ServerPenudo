@@ -1367,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 06:15:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_leather": {
     "criteria": {
       "has_stick": "2025-03-16 03:23:06 +0000"
@@ -1775,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 06:15:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-03-16 03:35:24 +0000"
@@ -1994,6 +2006,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-03-16 04:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 06:15:50 +0000"
     },
     "done": true
   },
@@ -2780,6 +2798,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 06:15:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-03-16 03:21:03 +0000"
@@ -3063,9 +3087,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 06:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-03-16 05:32:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 06:15:50 +0000"
     },
     "done": true
   },
@@ -3564,6 +3600,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-16 05:54:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-03-16 06:17:30 +0000"
     },
     "done": true
   },
@@ -4271,6 +4313,8 @@
       "minecraft:snowy_slopes": "2025-03-16 03:20:28 +0000",
       "minecraft:taiga": "2025-03-16 04:11:11 +0000",
       "minecraft:frozen_river": "2025-03-16 04:07:03 +0000",
+      "minecraft:cherry_grove": "2025-03-16 06:24:42 +0000",
+      "minecraft:sunflower_plains": "2025-03-16 06:24:36 +0000",
       "minecraft:river": "2025-03-16 04:44:23 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:22:35 +0000",
       "minecraft:stony_shore": "2025-03-16 04:05:22 +0000",

@@ -2386,3 +2386,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [16Mar2025 06:14:07.023] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [16Mar2025 06:14:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [The Most Useful Key]
 [16Mar2025 06:14:21.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [A Fast Comeback]
+[16Mar2025 06:17:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has reached the goal [Forlornliest Day of My Life]
+[16Mar2025 06:17:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Forlornliest Day of My Life]
+[16Mar2025 06:17:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV drowned
+[16Mar2025 06:17:58.845] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved

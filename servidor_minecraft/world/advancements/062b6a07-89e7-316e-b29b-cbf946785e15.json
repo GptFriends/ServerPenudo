@@ -46,6 +46,8 @@
       "minecraft:snowy_slopes": "2025-03-16 03:11:48 +0000",
       "minecraft:taiga": "2025-03-16 04:11:19 +0000",
       "minecraft:frozen_river": "2025-03-16 04:07:07 +0000",
+      "minecraft:cherry_grove": "2025-03-16 06:24:30 +0000",
+      "minecraft:sunflower_plains": "2025-03-16 06:23:50 +0000",
       "minecraft:river": "2025-03-16 04:41:35 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:16:03 +0000",
       "minecraft:stony_shore": "2025-03-16 04:05:25 +0000",
@@ -3639,6 +3641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-16 06:25:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-16 06:04:00 +0000"
@@ -4389,6 +4397,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-03-16 06:17:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-03-16 04:15:20 +0000"
@@ -4440,6 +4454,12 @@
   "spartanweaponry:recipes/wooden_arrow": {
     "criteria": {
       "has_feather": "2025-03-16 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-16 06:24:34 +0000"
     },
     "done": true
   },
