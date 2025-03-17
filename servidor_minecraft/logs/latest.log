@@ -491,3 +491,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [17Mar2025 22:32:00.432] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
 [17Mar2025 22:32:02.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
 [17Mar2025 22:35:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [The Cutest Predator]
+[17Mar2025 23:08:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 100 [Fermented Spider Eye] to Dravensio]
