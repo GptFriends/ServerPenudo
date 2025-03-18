@@ -1495,7 +1495,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-16 06:33:11 +0000",
+      "minecraft:blaze": "2025-03-18 01:19:24 +0000",
       "minecraft:skeleton": "2025-03-16 04:00:45 +0000",
+      "minecraft:ghast": "2025-03-18 01:03:32 +0000",
       "minecraft:hoglin": "2025-03-16 23:05:21 +0000",
       "minecraft:spider": "2025-03-16 04:03:26 +0000",
       "minecraft:creeper": "2025-03-16 03:35:45 +0000",
@@ -6495,10 +6497,84 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-18 01:10:59 +0000",
       "minecraft:nether_wastes": "2025-03-18 00:58:15 +0000",
-      "minecraft:soul_sand_valley": "2025-03-18 00:58:21 +0000"
+      "minecraft:soul_sand_valley": "2025-03-18 00:58:21 +0000",
+      "minecraft:warped_forest": "2025-03-18 01:07:04 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-18 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-18 01:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-18 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-18 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-18 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-18 01:19:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

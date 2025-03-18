@@ -545,3 +545,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 00:58:14.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
 [18Mar2025 00:58:14.857] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
 [18Mar2025 01:00:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [We Need to Go Deeper]
+[18Mar2025 01:10:15.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[18Mar2025 01:13:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[18Mar2025 01:16:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[18Mar2025 01:19:03.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [A Terrible Fortress]
+[18Mar2025 01:19:21.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [A Terrible Fortress]
+[18Mar2025 01:19:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Into Fire]
+[18Mar2025 01:21:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio burned to death
+[18Mar2025 01:21:14.622] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[18Mar2025 01:21:20.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[18Mar2025 01:24:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Magic Writing]
