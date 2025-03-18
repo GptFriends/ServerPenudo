@@ -603,3 +603,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 03:13:05.991] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
 [18Mar2025 03:18:38.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [This is my Boomstick]
 [18Mar2025 03:22:36.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[18Mar2025 03:27:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[18Mar2025 03:28:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[18Mar2025 03:30:45.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
+[18Mar2025 03:30:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
