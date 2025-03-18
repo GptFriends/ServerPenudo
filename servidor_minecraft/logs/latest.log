@@ -607,3 +607,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 03:28:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
 [18Mar2025 03:30:45.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
 [18Mar2025 03:30:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
+[18Mar2025 04:00:25.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/43694, l='ServerLevel[world]', x=-1602.70, y=67.00, z=-651.70] died, message: 'Farmer was slain by Zombie'
