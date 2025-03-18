@@ -568,3 +568,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 01:44:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
 [18Mar2025 01:44:21.543] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
 [18Mar2025 01:45:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Hidden in the Depths]
+[18Mar2025 01:45:56.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Wither Skeleton
+[18Mar2025 01:45:57.786] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved
+[18Mar2025 01:46:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
+[18Mar2025 01:47:07.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Into Fire]
+[18Mar2025 01:48:28.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [It's not time to tan]
+[18Mar2025 01:51:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
