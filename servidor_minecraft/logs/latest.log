@@ -575,3 +575,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 01:48:28.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [It's not time to tan]
 [18Mar2025 01:51:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Teleported ChantySV to Dravensio]
 [18Mar2025 02:04:55.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Will it Come Back?]
+[18Mar2025 02:06:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [What a Deal!]
+[18Mar2025 02:11:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [What a Deal!]

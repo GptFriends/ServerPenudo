@@ -3867,6 +3867,7 @@
     "criteria": {
       "sweet_berries": "2025-03-16 23:39:02 +0000",
       "rice": "2025-03-16 05:55:36 +0000",
+      "nether_wart": "2025-03-18 02:11:26 +0000",
       "wheat": "2025-03-16 05:01:13 +0000",
       "carrot": "2025-03-16 05:57:45 +0000"
     },
@@ -6559,6 +6560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-18 02:07:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-18 01:58:25 +0000"
@@ -6625,6 +6632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-18 02:07:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-03-18 02:02:02 +0000"
@@ -6640,6 +6653,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-18 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-18 02:06:21 +0000"
     },
     "done": true
   },
@@ -6673,6 +6692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-18 02:11:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-18 01:58:25 +0000"
@@ -6697,6 +6722,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-18 02:11:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-18 01:58:25 +0000"
@@ -6712,6 +6743,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-18 02:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-18 02:11:19 +0000"
     },
     "done": true
   },
@@ -6748,6 +6785,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-18 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-18 02:07:17 +0000"
     },
     "done": true
   },
