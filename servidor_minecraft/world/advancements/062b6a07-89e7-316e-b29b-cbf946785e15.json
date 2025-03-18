@@ -6673,6 +6673,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-03-18 02:55:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/guano": {
     "criteria": {
       "guano": "2025-03-18 02:52:26 +0000"
