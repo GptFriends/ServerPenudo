@@ -595,3 +595,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 02:56:42.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has completed the challenge [Demonslayer]
 [18Mar2025 03:00:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Chattering Teeth]
 [18Mar2025 03:00:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Bug Repellent]
+[18Mar2025 03:11:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [This is my Boomstick]
+[18Mar2025 03:12:43.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio was doomed to fall by Underzealot
+[18Mar2025 03:12:43.121] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[18Mar2025 03:12:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to ChantySV]
+[18Mar2025 03:13:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV was slain by Vesper
+[18Mar2025 03:13:05.991] [Server thread/INFO] [tombstone/]: The player ChantySV has successfully been saved

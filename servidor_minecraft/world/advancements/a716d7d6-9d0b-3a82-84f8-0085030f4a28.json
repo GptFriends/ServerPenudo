@@ -6877,6 +6877,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-03-18 03:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-03-18 01:24:37 +0000"
