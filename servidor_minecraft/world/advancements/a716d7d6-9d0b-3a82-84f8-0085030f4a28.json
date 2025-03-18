@@ -6457,5 +6457,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-18 00:50:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -532,3 +532,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 00:38:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
 [18Mar2025 00:38:00.443] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
 [18Mar2025 00:38:02.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[18Mar2025 00:50:36.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChantySV[/127.174.203.203:54921] logged in with entity id 5426 at (-1588.800000011921, 63.5625, -696.6999999880791)
+[18Mar2025 00:50:36.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
+[18Mar2025 00:50:36.224] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
+[18Mar2025 00:54:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Local Brewery]
