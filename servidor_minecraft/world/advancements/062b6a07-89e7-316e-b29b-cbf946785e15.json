@@ -1221,6 +1221,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-18 00:54:26 +0000",
       "cooked_mutton": "2025-03-16 04:16:35 +0000",
       "sweet_berries": "2025-03-16 07:00:26 +0000",
       "chorus_fruit": "2025-03-16 23:36:50 +0000",
@@ -6340,6 +6341,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-16 23:38:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-18 00:52:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-18 00:55:22 +0000"
     },
     "done": true
   },

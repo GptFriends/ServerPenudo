@@ -536,3 +536,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 00:50:36.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
 [18Mar2025 00:50:36.224] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
 [18Mar2025 00:54:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Local Brewery]
+[18Mar2025 00:57:56.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [We Need to Go Deeper]
+[18Mar2025 00:57:57.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Disconnected
+[18Mar2025 00:57:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
+[18Mar2025 00:57:57.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[18Mar2025 00:57:57.981] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Mar2025 00:58:14.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:36849] logged in with entity id 7139 at (-192.5, 79.0, -88.02360241692259)
+[18Mar2025 00:58:14.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[18Mar2025 00:58:14.857] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[18Mar2025 01:00:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [We Need to Go Deeper]
