@@ -6913,6 +6913,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-03-18 03:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-18 02:11:39 +0000"
