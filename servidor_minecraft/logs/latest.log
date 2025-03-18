@@ -557,3 +557,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [18Mar2025 01:24:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Magic Writing]
 [18Mar2025 01:25:39.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChantySV lost connection: Disconnected
 [18Mar2025 01:25:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV left the game
+[18Mar2025 01:35:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Ol' Betsy]
+[18Mar2025 01:38:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio tried to swim in lava
+[18Mar2025 01:38:10.801] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[18Mar2025 01:38:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to Dravensio]
+[18Mar2025 01:42:08.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=42, z=-80} BlockPos{x=-176, y=41, z=-81}
+[18Mar2025 01:42:08.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=42, z=-80} BlockPos{x=-176, y=41, z=-81}
+[18Mar2025 01:42:16.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=41, z=-80} BlockPos{x=-179, y=41, z=-81}
+[18Mar2025 01:44:21.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChantySV[/127.174.203.203:53827] logged in with entity id 17275 at (-1250.526641994279, 53.0, -123.90560235801408)
+[18Mar2025 01:44:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
+[18Mar2025 01:44:21.543] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
+[18Mar2025 01:45:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Hidden in the Depths]
