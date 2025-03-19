@@ -514,3 +514,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 16:06:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> NO QUIERO
 [19Mar2025 16:06:31.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=104, z=57} BlockPos{x=-50, y=102, z=57}
 [19Mar2025 16:07:08.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> PERRO HAMBREADO
+[19Mar2025 16:07:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> TIENES LA PLACA PARA HACERTE NETHERITA?
+[19Mar2025 16:11:31.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> DISCORD
+[19Mar2025 16:11:33.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> MRDA
+[19Mar2025 16:11:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> SI TENGO LA PLACA
+[19Mar2025 16:11:55.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> ESPERA
+[19Mar2025 16:11:58.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> CHORRO MAX
+[19Mar2025 16:12:07.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> ME EMPUTAS
+[19Mar2025 16:12:48.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=83, z=311} BlockPos{x=136, y=83, z=312}
+[19Mar2025 16:12:53.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=81, z=304} BlockPos{x=144, y=82, z=305}
+[19Mar2025 16:12:53.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=81, z=304} BlockPos{x=144, y=82, z=305}
+[19Mar2025 16:12:53.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=80, z=304} BlockPos{x=144, y=82, z=305}
+[19Mar2025 16:12:53.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=83, z=307} BlockPos{x=144, y=82, z=305}
+[19Mar2025 16:13:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=159, y=77, z=299} BlockPos{x=158, y=76, z=299}
+[19Mar2025 16:13:07.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=72, z=290} BlockPos{x=171, y=71, z=290}
+[19Mar2025 16:13:07.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=72, z=290} BlockPos{x=171, y=71, z=290}
+[19Mar2025 16:13:07.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=72, z=290} BlockPos{x=171, y=71, z=290}
+[19Mar2025 16:13:07.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=72, z=290} BlockPos{x=171, y=71, z=290}
+[19Mar2025 16:13:20.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=72, z=275} BlockPos{x=201, y=71, z=274}
+[19Mar2025 16:13:20.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=72, z=275} BlockPos{x=201, y=71, z=274}
+[19Mar2025 16:13:20.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=72, z=275} BlockPos{x=201, y=71, z=274}
+[19Mar2025 16:13:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Those Were the Days]
+[19Mar2025 16:14:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [War Pigs]
+[19Mar2025 16:14:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [It Belongs in a Museum]
+[19Mar2025 16:15:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Into Fire]
+[19Mar2025 16:15:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> DEJAME
+[19Mar2025 16:15:30.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=60, z=262} BlockPos{x=205, y=62, z=262}
+[19Mar2025 16:16:43.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=68, z=259} BlockPos{x=201, y=69, z=259}
+[19Mar2025 16:16:43.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=68, z=259} BlockPos{x=201, y=69, z=259}
+[19Mar2025 16:16:43.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=68, z=259} BlockPos{x=201, y=69, z=259}
+[19Mar2025 16:16:43.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=68, z=259} BlockPos{x=201, y=69, z=259}
+[19Mar2025 16:24:52.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=108, z=36} BlockPos{x=-83, y=108, z=38}
+[19Mar2025 16:24:53.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=107, z=36} BlockPos{x=-86, y=107, z=35}
+[19Mar2025 16:24:54.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=108, z=34} BlockPos{x=-89, y=108, z=33}
+[19Mar2025 16:24:54.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=108, z=34} BlockPos{x=-89, y=108, z=33}
+[19Mar2025 16:24:56.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=107, z=30} BlockPos{x=-88, y=108, z=28}
+[19Mar2025 16:24:58.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=106, z=23} BlockPos{x=-88, y=107, z=26}
+[19Mar2025 16:25:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to MatteoMF]
+[19Mar2025 16:25:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> KWA
+[19Mar2025 16:25:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> KES
+[19Mar2025 16:25:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> DISCORD
+[19Mar2025 16:25:58.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> UBICATE PERRO GRAN PUTA
+[19Mar2025 16:26:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> TENGO GUANTES
+[19Mar2025 16:26:02.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> DE BOX
+[19Mar2025 16:26:10.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> QUICOS VOS
+[19Mar2025 16:26:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Take Aim]
+[19Mar2025 16:26:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> COMO SE USA
+[19Mar2025 16:26:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> QUICOS
+[19Mar2025 16:26:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> COMO ME SACO
+[19Mar2025 16:26:40.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> MIS GUANTES
+[19Mar2025 16:26:46.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> NO TE SAQUES
+[19Mar2025 16:26:49.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> ES MAS ARMADURA
+[19Mar2025 16:27:13.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> UN CABALLO ESQUELETO
+[19Mar2025 16:27:20.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> PUTA MEIRDA
+[19Mar2025 16:27:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> LOS GUATNES
+[19Mar2025 16:27:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> PERRO
+[19Mar2025 16:27:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> PERO TE SIRVEN
