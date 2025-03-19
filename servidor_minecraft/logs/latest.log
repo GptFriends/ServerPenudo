@@ -488,3 +488,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 21:24:23.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatteoMF[/127.205.187.226:39423] logged in with entity id 765 at (-1456.3695028840164, 70.0, -1054.641482810276)
 [19Mar2025 21:24:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
 [19Mar2025 21:24:23.938] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
+[19Mar2025 23:07:56.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Mother of Dragons]

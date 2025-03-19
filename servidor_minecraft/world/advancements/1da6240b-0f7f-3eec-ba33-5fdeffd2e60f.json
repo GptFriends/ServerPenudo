@@ -56,6 +56,7 @@
       "minecraft:grove": "2025-03-19 03:18:11 +0000",
       "minecraft:forest": "2025-03-19 03:37:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-19 16:45:15 +0000",
+      "minecraft:deep_dark": "2025-03-19 23:04:17 +0000",
       "minecraft:meadow": "2025-03-19 03:46:37 +0000",
       "minecraft:plains": "2025-03-19 03:52:11 +0000"
     },
@@ -5775,6 +5776,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-19 23:05:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -5784,6 +5791,12 @@
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-03-19 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-03-19 23:07:56 +0000"
     },
     "done": true
   },
@@ -5823,6 +5836,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/spellbound_all_weapons": {
+    "criteria": {
+      "dagger": "2025-03-19 23:03:49 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -5841,6 +5860,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-03-19 23:07:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -5856,6 +5881,12 @@
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 23:05:19 +0000"
     },
     "done": true
   },
@@ -6009,6 +6040,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-03-19 23:07:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -6024,6 +6061,18 @@
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/a": {
+    "criteria": {
+      "dagger": "2025-03-19 23:03:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 23:05:19 +0000"
     },
     "done": true
   },
@@ -6054,6 +6103,12 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-19 23:07:56 +0000"
     },
     "done": true
   },
@@ -6111,6 +6166,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-03-19 23:07:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -6123,6 +6184,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-03-19 23:03:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -6132,6 +6199,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 23:05:19 +0000"
     },
     "done": true
   },
@@ -6195,6 +6268,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-03-19 23:07:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
@@ -6228,6 +6307,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-19 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/dagger": {
+    "criteria": {
+      "dagger": "2025-03-19 23:03:49 +0000"
     },
     "done": true
   },
