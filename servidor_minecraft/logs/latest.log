@@ -504,3 +504,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 03:26:11.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF was shot by Dread Lich
 [19Mar2025 03:26:11.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Your First Grave]
 [19Mar2025 03:26:11.343] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[19Mar2025 03:30:25.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[19Mar2025 03:33:39.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [A Strange Grave Dust]
+[19Mar2025 03:34:49.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:40045] logged in with entity id 6676 at (-1577.6019582082733, 63.0, -718.2010680235601)
+[19Mar2025 03:34:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[19Mar2025 03:34:49.818] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[19Mar2025 03:36:24.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
