@@ -576,3 +576,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 16:30:05.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=95, z=-60} BlockPos{x=-166, y=96, z=-59}
 [19Mar2025 16:32:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has completed the challenge [Cover Me in Debris]
 [19Mar2025 16:47:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Dragonslayer]
+[19Mar2025 16:48:15.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF lost connection: Disconnected
+[19Mar2025 16:48:15.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF left the game

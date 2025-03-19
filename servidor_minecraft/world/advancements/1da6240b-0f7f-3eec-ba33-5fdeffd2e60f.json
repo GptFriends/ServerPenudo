@@ -5132,6 +5132,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-03-19 16:47:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-19 15:43:35 +0000"
