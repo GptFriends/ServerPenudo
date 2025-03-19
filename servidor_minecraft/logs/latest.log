@@ -510,3 +510,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 03:34:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
 [19Mar2025 03:34:49.818] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
 [19Mar2025 03:36:24.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
+[19Mar2025 03:37:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Acquire Hardware]
+[19Mar2025 03:40:20.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6734, l='ServerLevel[world]', x=-1603.30, y=67.00, z=-667.70] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 03:46:21.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
+[19Mar2025 03:46:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [All Along The Watchtower]
+[19Mar2025 03:46:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]

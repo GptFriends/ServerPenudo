@@ -5,6 +5,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_scythe": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
@@ -35,6 +53,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
@@ -59,9 +83,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-19 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -74,6 +128,12 @@
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-19 03:33:39 +0000"
     },
     "done": true
   },
@@ -98,6 +158,12 @@
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -155,6 +221,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_3_1": {
     "criteria": {
       "requirement1": "2025-03-19 03:20:13 +0000"
@@ -164,6 +236,30 @@
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-19 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_dark": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-03-19 03:33:20 +0000"
     },
     "done": true
   },
@@ -179,6 +275,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
@@ -188,6 +296,12 @@
   "spartanweaponry:recipes/combat/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -211,6 +325,24 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/fridge_light": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
@@ -223,9 +355,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -247,15 +391,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/blue_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 03:36:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-03-19 03:19:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -276,6 +450,24 @@
       "requirement1": "2025-03-19 03:20:13 +0000"
     },
     "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/wooden_quarterstaff": {
     "criteria": {
@@ -298,6 +490,12 @@
   "corail_dt:recipes/corail_dt/disk_2_0": {
     "criteria": {
       "requirement1": "2025-03-19 03:19:18 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
     },
     "done": false
   },
@@ -325,9 +523,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 03:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -352,6 +586,12 @@
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-03-19 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -385,15 +625,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -415,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
@@ -427,9 +691,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -451,6 +727,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_spear": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
@@ -460,6 +742,12 @@
   "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -475,6 +763,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
@@ -487,9 +787,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-19 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-19 03:34:09 +0000"
     },
     "done": true
   },
@@ -505,15 +823,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-19 03:28:47 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -533,6 +869,12 @@
     "criteria": {
       "has_the_recipe": "2025-03-19 03:19:38 +0000",
       "requirement0": "2025-03-19 03:19:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -560,6 +902,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
@@ -578,9 +926,28 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-03-19 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/hopper_null": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 03:37:25 +0000",
+      "requirement0": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -593,6 +960,12 @@
   "corail_dt:recipes/corail_dt/disk_4_0": {
     "criteria": {
       "requirement1": "2025-03-19 03:19:18 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
     },
     "done": false
   },
@@ -620,6 +993,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-03-19 03:33:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
@@ -629,6 +1008,12 @@
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -662,6 +1047,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
@@ -686,15 +1083,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-03-19 03:33:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-03-19 03:32:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/tools/spatula": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -707,6 +1188,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-19 03:41:41 +0000"
     },
     "done": true
   },
@@ -753,9 +1240,39 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -768,6 +1285,12 @@
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-03-19 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -795,9 +1318,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -819,6 +1360,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
@@ -831,9 +1378,21 @@
     },
     "done": true
   },
+  "corail_dt:recipes/corail_dt/hopper_null": {
+    "criteria": {
+      "requirement0": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -846,6 +1405,12 @@
   "corail_dt:recipes/misc/disk_4_1": {
     "criteria": {
       "requirement1": "2025-03-19 03:20:13 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
     },
     "done": false
   },
@@ -882,6 +1447,12 @@
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
       "has_wood": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -927,15 +1498,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-03-19 03:32:56 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2025-03-19 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -957,6 +1558,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
@@ -966,6 +1579,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-19 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -981,9 +1600,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/post_box": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-19 03:34:09 +0000"
     },
     "done": true
   },
@@ -993,15 +1630,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -1035,6 +1690,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-03-19 03:19:38 +0000"
@@ -1047,11 +1708,35 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-03-19 03:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-19 03:21:29 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/misc/disk_1_0": {
     "criteria": {
@@ -1077,6 +1762,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-19 03:23:03 +0000"
@@ -1089,9 +1780,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -1125,6 +1834,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-03-19 03:18:55 +0000"
@@ -1140,6 +1855,12 @@
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -1161,9 +1882,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_trampoline": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -1178,9 +1917,12 @@
       "minecraft:snowy_slopes": "2025-03-19 03:19:56 +0000",
       "minecraft:taiga": "2025-03-19 03:29:03 +0000",
       "minecraft:frozen_river": "2025-03-19 03:32:22 +0000",
+      "minecraft:river": "2025-03-19 03:36:24 +0000",
       "minecraft:snowy_plains": "2025-03-19 03:23:12 +0000",
+      "minecraft:stony_shore": "2025-03-19 03:34:01 +0000",
       "minecraft:snowy_taiga": "2025-03-19 03:27:20 +0000",
-      "minecraft:grove": "2025-03-19 03:18:11 +0000"
+      "minecraft:grove": "2025-03-19 03:18:11 +0000",
+      "minecraft:forest": "2025-03-19 03:37:02 +0000"
     },
     "done": false
   },
@@ -1232,6 +1974,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/lime_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-03-19 03:20:13 +0000"
@@ -1268,9 +2016,27 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-19 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 03:37:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
@@ -1298,6 +2064,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-03-19 03:37:25 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_2_0": {
     "criteria": {
       "requirement1": "2025-03-19 03:19:18 +0000"
@@ -1310,6 +2082,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_grill": {
+    "criteria": {
+      "has_iron": "2025-03-19 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-19 03:24:30 +0000"
@@ -1319,6 +2103,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-19 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_wood": "2025-03-19 03:37:25 +0000"
     },
     "done": true
   },
