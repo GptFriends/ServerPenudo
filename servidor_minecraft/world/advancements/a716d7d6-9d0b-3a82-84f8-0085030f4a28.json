@@ -48,7 +48,9 @@
       "minecraft:frozen_river": "2025-03-16 04:07:03 +0000",
       "minecraft:cherry_grove": "2025-03-16 06:24:42 +0000",
       "minecraft:sunflower_plains": "2025-03-16 06:24:36 +0000",
+      "minecraft:birch_forest": "2025-03-19 04:38:03 +0000",
       "minecraft:savanna_plateau": "2025-03-16 22:21:45 +0000",
+      "minecraft:dark_forest": "2025-03-19 04:42:10 +0000",
       "minecraft:river": "2025-03-16 04:44:23 +0000",
       "minecraft:lukewarm_ocean": "2025-03-16 22:09:04 +0000",
       "minecraft:snowy_plains": "2025-03-16 03:22:35 +0000",
@@ -1509,6 +1511,7 @@
       "minecraft:husk": "2025-03-16 05:28:46 +0000",
       "minecraft:enderman": "2025-03-16 06:31:59 +0000",
       "minecraft:stray": "2025-03-16 06:08:41 +0000",
+      "minecraft:silverfish": "2025-03-19 04:39:41 +0000",
       "minecraft:zombie": "2025-03-16 03:35:11 +0000",
       "minecraft:zombie_villager": "2025-03-16 06:25:57 +0000"
     },

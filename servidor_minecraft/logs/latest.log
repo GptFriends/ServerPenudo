@@ -520,3 +520,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 03:57:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Diamonds!]
 [19Mar2025 04:22:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [What a Deal!]
 [19Mar2025 04:24:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Cover Me with Diamonds]
+[19Mar2025 04:47:52.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Sweet Dreams]
+[19Mar2025 04:55:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to MatteoMF]
+[19Mar2025 04:56:50.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [We Need to Go Deeper]
+[19Mar2025 04:57:37.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=76, z=-79} BlockPos{x=-196, y=76, z=-80}
