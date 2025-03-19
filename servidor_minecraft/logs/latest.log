@@ -484,3 +484,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 20:20:05.708] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [19Mar2025 20:20:05.936] [Server thread/INFO] [corail_dt/]: Loaded 5214 deconstruction schemas, 222ms
 [19Mar2025 20:20:05.957] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[19Mar2025 21:24:23.668] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[19Mar2025 21:24:23.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatteoMF[/127.205.187.226:39423] logged in with entity id 765 at (-1456.3695028840164, 70.0, -1054.641482810276)
+[19Mar2025 21:24:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
+[19Mar2025 21:24:23.938] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
