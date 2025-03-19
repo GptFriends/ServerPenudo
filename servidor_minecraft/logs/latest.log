@@ -565,3 +565,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 05:11:11.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=21, z=-166} BlockPos{x=-79, y=21, z=-167}
 [19Mar2025 05:11:57.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=24, z=-120} BlockPos{x=-75, y=23, z=-119}
 [19Mar2025 05:16:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 40 [Golden Apple] to Dravensio]
+[19Mar2025 05:20:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 150 [Bottle o' Enchanting] to Dravensio]
+[19Mar2025 05:21:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 2 [Anvil] to Dravensio]
+[19Mar2025 05:24:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 40 experience levels to Dravensio]
+[19Mar2025 05:27:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has completed the challenge [Cover Me in Debris]

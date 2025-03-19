@@ -6237,3 +6237,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 05:16:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 40 [Golden Apple] to Dravensio]
 [19Mar2025 05:17:58.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Mar2025 05:17:58.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 05:20:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 150 [Bottle o' Enchanting] to Dravensio]
+[19Mar2025 05:21:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 2 [Anvil] to Dravensio]
+[19Mar2025 05:22:58.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:22:58.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 05:24:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 40 experience levels to Dravensio]
+[19Mar2025 05:27:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has completed the challenge [Cover Me in Debris]
+[19Mar2025 05:27:58.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:27:58.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
