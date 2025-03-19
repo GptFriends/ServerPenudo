@@ -1079,6 +1079,7 @@
       "minecraft:piglin_brute": "2025-03-19 16:13:40 +0000",
       "minecraft:creeper": "2025-03-19 03:23:32 +0000",
       "minecraft:piglin": "2025-03-19 16:13:42 +0000",
+      "minecraft:enderman": "2025-03-19 16:34:17 +0000",
       "minecraft:zombie": "2025-03-19 03:23:20 +0000",
       "minecraft:drowned": "2025-03-19 15:43:43 +0000"
     },
@@ -4415,6 +4416,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-03-19 16:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-19 16:15:01 +0000"
@@ -4505,6 +4512,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-19 16:33:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-19 16:03:28 +0000"
@@ -4532,6 +4545,12 @@
   "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-19 15:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-19 16:32:27 +0000"
     },
     "done": true
   },
@@ -4631,6 +4650,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-03-19 16:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-19 15:31:39 +0000"
@@ -4712,6 +4737,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-19 16:14:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-03-19 16:32:10 +0000"
     },
     "done": true
   },
@@ -4922,6 +4953,12 @@
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-03-19 15:33:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-03-19 16:32:18 +0000"
     },
     "done": true
   },

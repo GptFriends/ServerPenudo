@@ -570,3 +570,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 16:27:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> LOS GUATNES
 [19Mar2025 16:27:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> PERRO
 [19Mar2025 16:27:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> PERO TE SIRVEN
+[19Mar2025 16:27:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> HAY UN BOTON DONDE ESTA LA TRANSMOG AHI ESTA PARA ABIR EL INVENTARIO COMPLETO
+[19Mar2025 16:27:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> AHI ESTAN LOS GUANTES
+[19Mar2025 16:30:05.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=95, z=-60} BlockPos{x=-166, y=97, z=-59}
+[19Mar2025 16:30:05.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=95, z=-60} BlockPos{x=-166, y=96, z=-59}
+[19Mar2025 16:32:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has completed the challenge [Cover Me in Debris]
