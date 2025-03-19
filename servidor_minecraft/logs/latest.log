@@ -493,3 +493,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 14:49:48.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatteoMF[/127.205.187.226:58737] logged in with entity id 765 at (-1573.3812263514883, 68.0, -721.6999999880791)
 [19Mar2025 14:49:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
 [19Mar2025 14:49:48.167] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
+[19Mar2025 15:56:44.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF moved too quickly! 10.336301956583839,-1.604424101326714,0.7887864790091612
+[19Mar2025 15:57:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Best Friends Forever]
+[19Mar2025 16:00:55.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatteoMF) moved wrongly! 0.27786371298498125
+[19Mar2025 16:00:55.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatteoMF) moved wrongly! 0.7044067587835343
+[19Mar2025 16:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatteoMF) moved wrongly! 1.2105051512244245
+[19Mar2025 16:00:55.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatteoMF) moved wrongly! 1.7591720234911463
+[19Mar2025 16:03:20.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=112, z=-74} BlockPos{x=-46, y=112, z=-74}
+[19Mar2025 16:03:21.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=112, z=-74} BlockPos{x=-46, y=112, z=-74}
+[19Mar2025 16:03:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Knowledge of Death]
+[19Mar2025 16:03:28.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Ashes 'n Bones]
+[19Mar2025 16:05:30.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:52701] logged in with entity id 12891 at (-1576.3987606157377, 63.0, -718.3060538823123)
+[19Mar2025 16:05:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[19Mar2025 16:05:30.960] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[19Mar2025 16:05:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> QUE TE UNES MARICON
+[19Mar2025 16:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> BUSCATE UNA VIDA
+[19Mar2025 16:06:01.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> HIJA
+[19Mar2025 16:06:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> que putas
+[19Mar2025 16:06:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dravensio> DISCORD
+[19Mar2025 16:06:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> NO QUIERO
+[19Mar2025 16:06:31.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=104, z=57} BlockPos{x=-50, y=102, z=57}
+[19Mar2025 16:07:08.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatteoMF> PERRO HAMBREADO
