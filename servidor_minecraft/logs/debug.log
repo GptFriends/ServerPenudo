@@ -6224,3 +6224,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 05:08:05.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [19Mar2025 05:08:06.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [19Mar2025 05:08:06.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Mar2025 05:08:35.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF lost connection: Disconnected
+[19Mar2025 05:08:35.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF left the game
+[19Mar2025 05:10:02.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=22, z=-129} BlockPos{x=-112, y=22, z=-128}
+[19Mar2025 05:10:02.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=22, z=-129} BlockPos{x=-112, y=22, z=-128}
+[19Mar2025 05:10:02.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=22, z=-130} BlockPos{x=-112, y=22, z=-128}
+[19Mar2025 05:10:08.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=22, z=-133} BlockPos{x=-114, y=22, z=-132}
+[19Mar2025 05:11:11.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=21, z=-166} BlockPos{x=-79, y=21, z=-167}
+[19Mar2025 05:11:57.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=24, z=-120} BlockPos{x=-75, y=23, z=-119}
+[19Mar2025 05:12:58.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:12:58.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 05:16:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 40 [Golden Apple] to Dravensio]
+[19Mar2025 05:17:58.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:17:58.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
