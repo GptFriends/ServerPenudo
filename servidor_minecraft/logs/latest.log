@@ -581,3 +581,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [19Mar2025 17:16:08.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 140 [Leather] to Dravensio]
 [19Mar2025 17:17:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 100 [Feather] to Dravensio]
 [19Mar2025 17:18:03.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/31010, l='ServerLevel[world]', x=-1566.46, y=63.00, z=-713.14] died, message: 'Toolsmith was slain by Zombie'
+[19Mar2025 17:21:26.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Disconnected
+[19Mar2025 17:21:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
