@@ -521,3 +521,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 20:51:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
 [20Mar2025 20:52:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to MatteoMF]
 [20Mar2025 20:52:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
+[20Mar2025 20:56:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [... Until They hatch!]
+[20Mar2025 20:57:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Don't Count Your Moas...]
+[20Mar2025 20:59:01.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Baby Food]
+[20Mar2025 20:59:03.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Baby Food]

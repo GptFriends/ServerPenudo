@@ -7030,15 +7030,63 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "aether:gold_dungeon": {
     "criteria": {
       "kill_sun_spirit": "2025-03-20 20:43:40 +0000"
     },
     "done": true
   },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "aether:phoenix_armor": {
     "criteria": {
       "phoenix_helmet": "2025-03-20 20:44:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
     },
     "done": true
   },
@@ -7054,9 +7102,39 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_the_recipe": "2025-03-20 20:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 20:54:13 +0000"
     },
     "done": true
   },
@@ -7066,15 +7144,51 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-03-20 20:50:20 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-03-20 20:28:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "aether:mount_phyg": {
     "criteria": {
       "mount_phyg": "2025-03-20 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
     },
     "done": true
   },
@@ -7090,15 +7204,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-20 20:28:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-03-20 20:59:03 +0000"
     },
     "done": true
   },
@@ -7114,6 +7258,60 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-03-20 20:56:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
@@ -7123,6 +7321,36 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-03-20 20:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
     },
     "done": true
   },
@@ -7138,9 +7366,27 @@
     },
     "done": true
   },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-03-20 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_gloves": "2025-03-20 20:44:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
     },
     "done": true
   },
@@ -7150,9 +7396,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_sign": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
     },
     "done": true
   },
@@ -7174,15 +7444,45 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_arrow": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-03-20 20:45:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
     },
     "done": true
   },
@@ -7195,6 +7495,36 @@
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
     },
     "done": true
   },
@@ -7216,15 +7546,45 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_wood": {
     "criteria": {
       "has_log": "2025-03-20 20:45:35 +0000"
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_egg": {
     "criteria": {
       "moa_egg": "2025-03-20 20:46:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-03-20 20:51:15 +0000"
     },
     "done": true
   },
