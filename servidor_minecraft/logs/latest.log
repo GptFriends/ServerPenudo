@@ -544,3 +544,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 21:47:58.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Phyg (vehicle of Dravensio) moved too quickly! 0.0,-320.56934863150093,0.0
 [20Mar2025 21:47:58.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
 [20Mar2025 21:49:51.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[20Mar2025 22:03:34.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Disconnected
+[20Mar2025 22:03:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
