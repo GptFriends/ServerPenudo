@@ -7024,6 +7024,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-03-20 20:46:19 +0000"
@@ -7060,9 +7072,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -7090,6 +7114,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
       "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
@@ -7114,9 +7144,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },
@@ -7141,6 +7189,30 @@
   "aether:recipes/tools/cold_parachute": {
     "criteria": {
       "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },
@@ -7192,6 +7264,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2025-03-20 20:28:19 +0000"
@@ -7222,6 +7300,18 @@
     },
     "done": true
   },
+  "lost_aether_content:recipes/combat/zanite_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-03-20 21:11:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-03-20 20:44:02 +0000"
@@ -7234,9 +7324,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-20 20:28:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-03-20 21:11:30 +0000"
     },
     "done": true
   },
@@ -7282,15 +7384,33 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_fence_gate": {
     "criteria": {
       "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-03-20 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },
@@ -7330,6 +7450,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-03-20 21:13:42 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_petal": {
     "criteria": {
       "aechor_petal": "2025-03-20 20:59:03 +0000"
@@ -7339,6 +7465,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },
@@ -7384,6 +7516,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:51:15 +0000"
@@ -7396,15 +7534,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_sword": {
     "criteria": {
       "has_planks": "2025-03-20 20:50:50 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-20 21:13:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },
@@ -7435,6 +7597,12 @@
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-03-20 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-03-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -7477,6 +7645,12 @@
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-03-20 20:45:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
     },
     "done": true
   },

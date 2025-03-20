@@ -8535,6 +8535,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2025-03-20 20:50:01 +0000"
@@ -8577,6 +8583,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
@@ -8607,15 +8619,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-20 21:09:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
@@ -8631,6 +8661,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_the_recipe": "2025-03-20 20:27:45 +0000"
@@ -8643,6 +8679,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-20 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-03-20 20:50:01 +0000"
@@ -8652,6 +8700,12 @@
   "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
@@ -8697,9 +8751,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2025-03-20 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-03-20 21:13:14 +0000"
     },
     "done": true
   },
@@ -8721,9 +8787,21 @@
     },
     "done": true
   },
+  "lost_aether_content:recipes/combat/zanite_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
@@ -8751,15 +8829,33 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-20 20:27:35 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
@@ -8778,6 +8874,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-03-20 21:00:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
@@ -8805,6 +8907,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
@@ -8823,6 +8943,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-20 21:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-20 21:00:12 +0000"
@@ -8832,6 +8958,12 @@
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-03-20 20:45:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
     },
     "done": true
   },
