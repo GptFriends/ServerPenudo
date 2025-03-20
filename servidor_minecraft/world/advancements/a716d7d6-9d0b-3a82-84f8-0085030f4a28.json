@@ -8317,9 +8317,9 @@
     },
     "done": true
   },
-  "1_splatus:spellbound/player_hurt": {
+  "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
-      "requirement": "2025-03-20 05:10:05 +0000"
+      "has_item": "2025-03-20 05:27:25 +0000"
     },
     "done": true
   },
