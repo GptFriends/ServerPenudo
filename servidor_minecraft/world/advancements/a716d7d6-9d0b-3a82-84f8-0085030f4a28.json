@@ -8535,6 +8535,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2025-03-20 21:18:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
@@ -8625,6 +8631,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-03-20 21:18:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
@@ -8658,6 +8670,12 @@
   "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-03-20 21:14:47 +0000"
     },
     "done": true
   },
@@ -8823,6 +8841,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2025-03-20 21:19:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/freezer": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
@@ -8862,6 +8886,18 @@
   "aether:recipes/decorations/incubator": {
     "criteria": {
       "has_holystone": "2025-03-20 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-03-20 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-03-20 21:15:16 +0000"
     },
     "done": true
   },
@@ -8916,6 +8952,12 @@
   "aether:recipes/tools/nature_staff": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-20 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-20 21:15:22 +0000"
     },
     "done": true
   },

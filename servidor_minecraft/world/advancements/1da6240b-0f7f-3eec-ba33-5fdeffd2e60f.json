@@ -7114,9 +7114,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stairs": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_sword": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-03-20 21:18:48 +0000"
     },
     "done": true
   },
@@ -7177,6 +7189,12 @@
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-20 20:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
     },
     "done": true
   },
@@ -7306,6 +7324,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_pendant_repairing": {
     "criteria": {
       "has_zanite_pendant": "2025-03-20 21:11:31 +0000"
@@ -7372,6 +7396,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2025-03-20 21:19:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/freezer": {
     "criteria": {
       "has_holystone": "2025-03-20 20:51:15 +0000"
@@ -7426,9 +7456,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_slab": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-03-20 20:50:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-03-20 21:15:10 +0000"
     },
     "done": true
   },
@@ -7474,6 +7516,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_gloves_repairing": {
+    "criteria": {
+      "has_gravitite_gloves": "2025-03-20 21:20:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2025-03-20 20:50:50 +0000"
@@ -7501,6 +7555,12 @@
   "aether:incubate_moa": {
     "criteria": {
       "incubate_moa": "2025-03-20 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
     },
     "done": true
   },
@@ -7537,6 +7597,12 @@
   "aether:recipes/combat/zanite_pendant": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-20 21:12:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
     },
     "done": true
   },
@@ -7678,6 +7744,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-20 20:57:07 +0000"
@@ -7761,6 +7833,18 @@
       "has_holystone": "2025-03-20 20:51:15 +0000"
     },
     "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-03-20 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_gloves": "2025-03-20 21:20:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

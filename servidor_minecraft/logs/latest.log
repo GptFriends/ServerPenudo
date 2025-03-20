@@ -530,3 +530,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 21:12:44.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Exotic Hardware]
 [20Mar2025 21:12:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Exotic Hardware]
 [20Mar2025 21:14:41.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Cold as Ice]
+[20Mar2025 21:18:48.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Dethroned]
+[20Mar2025 21:18:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Dethroned]
+[20Mar2025 21:19:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Earning your Wings]
+[20Mar2025 21:19:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Earning your Wings]
+[20Mar2025 21:20:51.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF lost connection: Disconnected
+[20Mar2025 21:20:51.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF left the game
+[20Mar2025 21:24:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Set the time to 1000]
