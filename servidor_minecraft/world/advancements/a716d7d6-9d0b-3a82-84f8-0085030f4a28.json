@@ -62,6 +62,7 @@
       "minecraft:forest": "2025-03-16 04:46:05 +0000",
       "minecraft:lush_caves": "2025-03-17 22:34:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 06:01:51 +0000",
+      "minecraft:flower_forest": "2025-03-20 04:01:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-16 06:13:24 +0000",
       "minecraft:deep_dark": "2025-03-16 03:33:52 +0000",
       "minecraft:meadow": "2025-03-16 04:30:13 +0000",
@@ -7674,9 +7675,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-03-20 04:03:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-03-20 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-20 04:07:42 +0000"
     },
     "done": true
   },
@@ -7695,6 +7708,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-03-20 03:34:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-03-20 04:03:20 +0000"
     },
     "done": true
   },
@@ -7758,6 +7777,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-20 04:07:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-03-20 03:34:11 +0000"
@@ -7791,6 +7816,12 @@
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-03-20 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-20 04:03:20 +0000"
     },
     "done": true
   },
@@ -7848,6 +7879,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-03-20 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-20 04:07:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-03-20 03:43:21 +0000"
@@ -7866,6 +7909,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-03-20 04:07:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-20 04:07:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-03-20 03:42:41 +0000"
@@ -7881,6 +7936,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-20 03:49:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-03-20 04:03:20 +0000"
     },
     "done": true
   },

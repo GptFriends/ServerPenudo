@@ -24,3 +24,7 @@
 [20Mar2025 03:47:37.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-634, y=33, z=-424} BlockPos{x=-634, y=32, z=-423}
 [20Mar2025 03:50:38.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [A Terrible Fortress]
 [20Mar2025 04:00:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Oh Shiny]
+[20Mar2025 04:05:00.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=79, z=-132} BlockPos{x=-176, y=78, z=-134}
+[20Mar2025 04:05:06.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=85, z=-135} BlockPos{x=-181, y=85, z=-135}
+[20Mar2025 04:05:19.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=89, z=-125} BlockPos{x=-189, y=86, z=-117}
+[20Mar2025 04:05:21.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=85, z=-110} BlockPos{x=-189, y=84, z=-110}
