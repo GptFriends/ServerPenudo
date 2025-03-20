@@ -495,3 +495,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 20:05:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
 [20Mar2025 20:05:19.223] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
 [20Mar2025 20:09:12.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to MatteoMF]
+[20Mar2025 20:28:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Hostile Paradise]
+[20Mar2025 20:28:35.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Hostile Paradise]
+[20Mar2025 20:31:00.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF moved too quickly! -0.10093341231049635,-13.547505941346515,0.07470500507031375
+[20Mar2025 20:31:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF fell from a high place
+[20Mar2025 20:31:05.182] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[20Mar2025 20:31:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [When Phygs Fly]
+[20Mar2025 20:32:21.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF moved too quickly! 0.0,-11.374650770518599,0.0
+[20Mar2025 20:32:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF fell from a high place
+[20Mar2025 20:32:26.506] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[20Mar2025 20:33:56.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [When Phygs Fly]
