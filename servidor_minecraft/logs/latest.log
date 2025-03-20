@@ -3,3 +3,23 @@
 [20Mar2025 03:10:20.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:42181] logged in with entity id 23169 at (-1609.462018314857, 64.0, -699.9664282257196)
 [20Mar2025 03:10:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
 [20Mar2025 03:10:20.552] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[20Mar2025 03:24:36.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatteoMF[/127.205.187.226:39281] logged in with entity id 26578 at (-1534.6689824463872, 63.0, -754.5044452334579)
+[20Mar2025 03:24:36.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
+[20Mar2025 03:24:36.416] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
+[20Mar2025 03:28:34.331] [Worker-Main-252/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[20Mar2025 03:28:34.333] [Worker-Main-252/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[20Mar2025 03:28:34.333] [Worker-Main-252/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[20Mar2025 03:28:34.333] [Worker-Main-252/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[20Mar2025 03:28:34.334] [Worker-Main-252/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[20Mar2025 03:28:34.363] [Worker-Main-284/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[20Mar2025 03:28:34.363] [Worker-Main-284/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[20Mar2025 03:33:35.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Dragonslayer]
+[20Mar2025 03:42:41.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has completed the challenge [Hot Tourist Destinations]
+[20Mar2025 03:45:21.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-521, y=49, z=-195} BlockPos{x=-524, y=49, z=-194}
+[20Mar2025 03:45:51.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-506, y=47, z=-289} BlockPos{x=-506, y=49, z=-289}
+[20Mar2025 03:46:08.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-512, y=49, z=-319} BlockPos{x=-515, y=48, z=-319}
+[20Mar2025 03:46:08.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-512, y=49, z=-319} BlockPos{x=-515, y=48, z=-319}
+[20Mar2025 03:47:37.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-634, y=33, z=-424} BlockPos{x=-634, y=32, z=-423}
+[20Mar2025 03:47:37.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-634, y=33, z=-424} BlockPos{x=-634, y=32, z=-423}
+[20Mar2025 03:47:37.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-634, y=33, z=-424} BlockPos{x=-634, y=32, z=-423}
+[20Mar2025 03:50:38.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [A Terrible Fortress]
