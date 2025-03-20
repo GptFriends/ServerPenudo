@@ -7024,15 +7024,33 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_the_recipe": "2025-03-20 20:28:19 +0000"
     },
     "done": true
   },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-03-20 20:28:34 +0000"
+    },
+    "done": true
+  },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2025-03-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -7051,6 +7069,12 @@
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-03-20 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-03-20 20:33:42 +0000"
     },
     "done": true
   },

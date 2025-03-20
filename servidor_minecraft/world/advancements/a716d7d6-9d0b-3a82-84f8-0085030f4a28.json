@@ -8553,6 +8553,12 @@
     },
     "done": true
   },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2025-03-20 20:31:32 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2025-03-20 20:27:45 +0000"
