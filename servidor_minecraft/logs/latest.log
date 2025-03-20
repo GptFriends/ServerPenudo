@@ -30,3 +30,23 @@
 [20Mar2025 04:05:21.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=85, z=-110} BlockPos{x=-189, y=84, z=-110}
 [20Mar2025 04:18:06.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio moved too quickly! -0.010657979162715492,-9.238674987216793,13.394399812005759
 [20Mar2025 04:21:47.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio moved wrongly!
+[20Mar2025 04:24:19.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56686, l='ServerLevel[world]', x=-890.36, y=97.00, z=-1037.81] died, message: 'Leatherworker was slain by Zombie'
+[20Mar2025 04:24:48.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/56797, l='ServerLevel[world]', x=-866.80, y=102.00, z=-1032.50] died, message: 'Armorer was slain by Zombie'
+[20Mar2025 04:25:03.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58647, l='ServerLevel[world]', x=-1644.30, y=64.00, z=-696.30] died, message: 'Unemployed was slain by Zombie'
+[20Mar2025 04:25:10.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58646, l='ServerLevel[world]', x=-1644.70, y=64.00, z=-696.70] died, message: 'Unemployed was slain by Zombie'
+[20Mar2025 04:25:14.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58648, l='ServerLevel[world]', x=-1644.40, y=64.00, z=-696.69] died, message: 'Unemployed was slain by Zombie'
+[20Mar2025 04:26:03.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/56796, l='ServerLevel[world]', x=-891.22, y=97.02, z=-1044.25] died, message: 'Nitwit was slain by Zombie'
+[20Mar2025 04:28:21.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Bone Crusher]
+[20Mar2025 04:36:03.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Best Friends Forever]
+[20Mar2025 04:36:56.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1804, y=61, z=-260} BlockPos{x=-1804, y=59, z=-260}
+[20Mar2025 04:36:56.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1804, y=61, z=-260} BlockPos{x=-1804, y=59, z=-260}
+[20Mar2025 04:40:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Strong or Careful]
+[20Mar2025 04:40:00.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF was slain by Cyclops
+[20Mar2025 04:40:00.056] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[20Mar2025 04:40:19.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Here They Come]
+[20Mar2025 04:41:05.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to MatteoMF]
+[20Mar2025 04:41:16.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [The Most Useful Key]
+[20Mar2025 04:41:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [A Fast Comeback]
+[20Mar2025 04:41:24.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF was slain by Cyclops
+[20Mar2025 04:41:24.629] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[20Mar2025 04:42:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to MatteoMF]
