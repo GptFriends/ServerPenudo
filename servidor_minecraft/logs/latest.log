@@ -510,3 +510,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 20:39:43.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1671, y=71, z=-457} BlockPos{x=-1671, y=70, z=-456}
 [20Mar2025 20:43:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Extinguished]
 [20Mar2025 20:43:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Extinguished]
+[20Mar2025 20:44:34.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Fireproof]
+[20Mar2025 20:44:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Cool Jewelery!]
+[20Mar2025 20:44:44.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has reached the goal [Fireproof]
+[20Mar2025 20:46:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Don't Count Your Moas...]
+[20Mar2025 20:50:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio has made the advancement [Cold as Ice]
+[20Mar2025 20:51:33.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF moved too quickly! 0.0,-13.942417239629236,0.0
+[20Mar2025 20:51:37.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF fell from a high place
+[20Mar2025 20:51:37.319] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
+[20Mar2025 20:51:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
+[20Mar2025 20:52:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to MatteoMF]
+[20Mar2025 20:52:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported MatteoMF to Dravensio]
