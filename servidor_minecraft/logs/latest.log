@@ -59,3 +59,11 @@
 [20Mar2025 04:52:45.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Disconnected
 [20Mar2025 04:52:45.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
 [20Mar2025 04:52:45.820] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Mar2025 04:56:30.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF lost connection: Disconnected
+[20Mar2025 04:56:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF left the game
+[20Mar2025 04:57:54.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:50209] logged in with entity id 81503 at (-1790.6725686231791, 16.121296840539188, -159.3215697140685)
+[20Mar2025 04:57:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[20Mar2025 04:57:54.960] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[20Mar2025 04:58:22.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/81583, l='ServerLevel[world]', x=-1782.52, y=110.15, z=-145.67] died, message: 'Fletcher was slain by Fire Dragon'
+[20Mar2025 04:58:40.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Timed out
+[20Mar2025 04:58:40.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
