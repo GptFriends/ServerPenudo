@@ -8317,5 +8317,11 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/player_hurt": {
+    "criteria": {
+      "requirement": "2025-03-20 05:10:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

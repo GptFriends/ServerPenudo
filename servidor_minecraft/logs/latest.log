@@ -67,3 +67,10 @@
 [20Mar2025 04:58:22.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/81583, l='ServerLevel[world]', x=-1782.52, y=110.15, z=-145.67] died, message: 'Fletcher was slain by Fire Dragon'
 [20Mar2025 04:58:40.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Timed out
 [20Mar2025 04:58:40.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
+[20Mar2025 05:07:45.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:60485] logged in with entity id 82184 at (-1792.8241540252372, 15.0, -157.62285317547025)
+[20Mar2025 05:07:45.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[20Mar2025 05:07:45.227] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[20Mar2025 05:07:54.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/82313, l='ServerLevel[world]', x=-1785.50, y=69.00, z=-121.81] died, message: 'Butcher burned to death'
+[20Mar2025 05:11:42.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio fell from a high place
+[20Mar2025 05:11:42.059] [Server thread/INFO] [tombstone/]: The player Dravensio has successfully been saved
+[20Mar2025 05:11:53.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to Dravensio]
