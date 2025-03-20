@@ -1,2 +1,5 @@
 [20Mar2025 00:01:55.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatteoMF lost connection: Disconnected
 [20Mar2025 00:01:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF left the game
+[20Mar2025 03:10:20.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:42181] logged in with entity id 23169 at (-1609.462018314857, 64.0, -699.9664282257196)
+[20Mar2025 03:10:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
+[20Mar2025 03:10:20.552] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
