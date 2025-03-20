@@ -6496,6 +6496,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-03-20 04:45:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_saber": {
     "criteria": {
       "has_silver_ingot": "2025-03-20 04:28:11 +0000"
@@ -6556,6 +6562,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 04:40:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-03-20 03:25:28 +0000"
@@ -6598,6 +6610,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-20 04:47:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-03-20 04:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-03-20 03:28:28 +0000"
@@ -6619,6 +6643,12 @@
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-03-20 03:28:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-03-20 04:46:54 +0000"
     },
     "done": true
   },
@@ -6664,9 +6694,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 04:41:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-03-20 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-03-20 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-20 04:45:39 +0000"
     },
     "done": true
   },
@@ -6709,6 +6757,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-20 03:28:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 04:46:48 +0000"
     },
     "done": true
   },
@@ -6784,6 +6838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-20 04:45:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2025-03-20 04:28:11 +0000"
@@ -6793,6 +6853,12 @@
   "spartanweaponry:recipes/silver_heavy_crossbow": {
     "criteria": {
       "has_silver_ingot": "2025-03-20 04:28:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-20 04:45:38 +0000"
     },
     "done": true
   },
@@ -6820,6 +6886,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-20 04:47:00 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/nether_fortress_core": {
     "criteria": {
       "blowgun": "2025-03-20 04:00:30 +0000"
@@ -6829,6 +6901,12 @@
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-03-20 04:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-20 04:45:39 +0000"
     },
     "done": true
   },
@@ -6880,6 +6958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-20 04:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-20 04:37:04 +0000"
@@ -6889,6 +6973,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-03-20 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-20 04:45:39 +0000"
     },
     "done": true
   },
@@ -6913,6 +7003,12 @@
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-03-20 04:28:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-20 04:41:16 +0000"
     },
     "done": true
   },

@@ -50,3 +50,12 @@
 [20Mar2025 04:41:24.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF was slain by Cyclops
 [20Mar2025 04:41:24.629] [Server thread/INFO] [tombstone/]: The player MatteoMF has successfully been saved
 [20Mar2025 04:42:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Gave 1 [Ender Pearl] to MatteoMF]
+[20Mar2025 04:45:38.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [My Name is Nobody]
+[20Mar2025 04:46:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Funeral Theft]
+[20Mar2025 04:47:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has made the advancement [Your First Receptacle]
+[20Mar2025 04:48:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF has reached the goal [Heliomancer]
+[20Mar2025 04:51:38.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/66058, l='ServerLevel[world]', x=-1793.54, y=69.00, z=-110.71] died, message: 'Butcher was turned into KFC by Fire Dragon'
+[20Mar2025 04:52:14.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/66050, l='ServerLevel[world]', x=-1816.37, y=63.00, z=-144.98] died, message: 'Cartographer was slain by Fire Dragon'
+[20Mar2025 04:52:45.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dravensio lost connection: Disconnected
+[20Mar2025 04:52:45.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio left the game
+[20Mar2025 04:52:45.820] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
