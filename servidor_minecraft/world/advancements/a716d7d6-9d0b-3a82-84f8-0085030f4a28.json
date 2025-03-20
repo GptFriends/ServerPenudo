@@ -5919,7 +5919,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2025-03-16 23:08:44 +0000"
+      "wither_skeleton_skull": "2025-03-16 23:08:44 +0000",
+      "skeleton_skull": "2025-03-20 03:57:20 +0000"
     },
     "done": false
   },
@@ -7739,15 +7740,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-03-20 03:54:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-03-20 03:34:11 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-20 03:54:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-03-20 03:34:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-03-20 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-03-20 03:54:52 +0000"
     },
     "done": true
   },
@@ -7802,6 +7827,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-03-20 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-03-20 03:54:52 +0000"
     },
     "done": true
   },

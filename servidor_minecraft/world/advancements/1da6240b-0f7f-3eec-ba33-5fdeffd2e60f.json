@@ -1074,12 +1074,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-20 03:51:54 +0000",
       "minecraft:skeleton": "2025-03-19 04:59:01 +0000",
       "minecraft:hoglin": "2025-03-19 16:04:32 +0000",
       "minecraft:magma_cube": "2025-03-19 16:24:14 +0000",
       "minecraft:spider": "2025-03-19 03:23:49 +0000",
       "minecraft:piglin_brute": "2025-03-19 16:13:40 +0000",
       "minecraft:creeper": "2025-03-19 03:23:32 +0000",
+      "minecraft:wither_skeleton": "2025-03-20 03:51:12 +0000",
       "minecraft:piglin": "2025-03-19 16:13:42 +0000",
       "minecraft:enderman": "2025-03-19 16:34:17 +0000",
       "minecraft:zombie": "2025-03-19 03:23:20 +0000",
@@ -6518,6 +6520,18 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-03-20 03:28:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-03-20 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-20 03:50:38 +0000"
     },
     "done": true
   },
