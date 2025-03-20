@@ -490,3 +490,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Mar2025 19:56:47.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dravensio[/127.250.107.47:53045] logged in with entity id 765 at (-1609.3489093562234, 64.0, -700.3398248589411)
 [20Mar2025 19:56:47.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dravensio joined the game
 [20Mar2025 19:56:47.427] [Server thread/INFO] [Jade/]: Syncing config to Dravensio (a716d7d6-9d0b-3a82-84f8-0085030f4a28)
+[20Mar2025 20:05:12.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@664f8247[id=<null>,name=MatteoMF,properties={},legacy=false] (/127.205.187.226:33283) lost connection: Disconnected
+[20Mar2025 20:05:19.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatteoMF[/127.205.187.226:52879] logged in with entity id 2986 at (-1524.2880823210535, 63.0, -733.7039818608106)
+[20Mar2025 20:05:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatteoMF joined the game
+[20Mar2025 20:05:19.223] [Server thread/INFO] [Jade/]: Syncing config to MatteoMF (1da6240b-0f7f-3eec-ba33-5fdeffd2e60f)
+[20Mar2025 20:09:12.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dravensio: Teleported Dravensio to MatteoMF]
